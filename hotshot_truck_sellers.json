@@ -1,0 +1,5906 @@
+[
+    {
+        "Name": "Hitch King",
+        "Type": "Auto Customization",
+        "Address": "12 Van Buren Ave, Floral Park, NY 11001",
+        "Latitude": 40.7577859,
+        "Longitude": -73.791975,
+        "Rating": 4.8,
+        "Review_Count": 118
+    },
+    {
+        "Name": "AZP Installs",
+        "Type": "Auto Repair",
+        "Address": "725 Fairfield Ave, Kenilworth, NJ 07033",
+        "Latitude": 40.6693229675293,
+        "Longitude": -74.280143737793,
+        "Rating": 4.9,
+        "Review_Count": 50
+    },
+    {
+        "Name": "TNA MotorSports",
+        "Type": "Auto Parts & Supplies",
+        "Address": "7913 Cooper Ave, Queens, NY 11385",
+        "Latitude": 40.7081864,
+        "Longitude": -73.872878,
+        "Rating": 4.6,
+        "Review_Count": 11
+    },
+    {
+        "Name": "Trailer City",
+        "Type": "Trailer Dealers",
+        "Address": "236 Front St, Hempstead, NY 11550",
+        "Latitude": 40.742293674346435,
+        "Longitude": -73.98991408598329,
+        "Rating": 2.5,
+        "Review_Count": 14
+    },
+    {
+        "Name": "The Custom Shop",
+        "Type": "Auto Customization",
+        "Address": "33-67 11th St, New York, NY 11106",
+        "Latitude": 40.765061,
+        "Longitude": -73.93718,
+        "Rating": 4.8,
+        "Review_Count": 45
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Park Slope",
+        "Type": "Self Storage",
+        "Address": "394 4th Ave, Parkslope, NY 11215",
+        "Latitude": 40.67270717,
+        "Longitude": -73.9872285,
+        "Rating": 2.0,
+        "Review_Count": 156
+    },
+    {
+        "Name": "PNA Autosport Corp",
+        "Type": "Car Stereo Installation",
+        "Address": "6068 Metropolitan Ave, Ridgewood, NY 11385",
+        "Latitude": 40.71263750597092,
+        "Longitude": -73.902891,
+        "Rating": 4.5,
+        "Review_Count": 146
+    },
+    {
+        "Name": "U-Haul - Chelsea",
+        "Type": "Self Storage",
+        "Address": "536 W 23rd St, New York, NY 10011",
+        "Latitude": 40.7483,
+        "Longitude": -74.00601,
+        "Rating": 1.9,
+        "Review_Count": 200
+    },
+    {
+        "Name": "Cyclevan Unlimited",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6 William St, South River, NJ 08882",
+        "Latitude": 40.453456574494,
+        "Longitude": -74.385313,
+        "Rating": 4.8,
+        "Review_Count": 5
+    },
+    {
+        "Name": "U-Haul of East Orange",
+        "Type": "Truck Rental",
+        "Address": "141 Freeway Dr E, East Orange, NJ 07018",
+        "Latitude": 40.7576585786933,
+        "Longitude": -74.2075242263893,
+        "Rating": 1.8,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Flushing",
+        "Type": "Truck Rental",
+        "Address": "3630 College Point Blvd, Flushing, NY 11354",
+        "Latitude": 40.7608096,
+        "Longitude": -73.8356139,
+        "Rating": 2.1,
+        "Review_Count": 59
+    },
+    {
+        "Name": "Crown Auto Center",
+        "Type": "Auto Customization",
+        "Address": "133-38 32nd Ave, Flushing, NY 11354",
+        "Latitude": 40.7712832931213,
+        "Longitude": -73.8352492910157,
+        "Rating": 4.0,
+        "Review_Count": 44
+    },
+    {
+        "Name": "Trailer City",
+        "Type": "Trailer Dealers",
+        "Address": "1100 Jericho Tpke, Commack, NY 11725",
+        "Latitude": 40.846088,
+        "Longitude": -73.260452,
+        "Rating": 3.3,
+        "Review_Count": 10
+    },
+    {
+        "Name": "U-Haul Moving & Storage of North Bergen",
+        "Type": "Truck Rental",
+        "Address": "6701 Tonnelle Ave, North Bergen, NJ 07047",
+        "Latitude": 40.798509,
+        "Longitude": -74.023847,
+        "Rating": 2.2,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Broadfeet Motorsport Equipment",
+        "Type": "Auto Parts & Supplies",
+        "Address": "25A Denton Ave, New Hyde Park, NY 11040",
+        "Latitude": 40.73872,
+        "Longitude": -73.67207,
+        "Rating": 3.8,
+        "Review_Count": 13
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center of Flushing",
+        "Type": "Trailer Dealers",
+        "Address": "3628 College Point Blvd, Flushing, NY 11354",
+        "Latitude": 40.7607191662149,
+        "Longitude": -73.8357013681228,
+        "Rating": 1.6,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul - Yonkers",
+        "Type": "Self Storage",
+        "Address": "155 Saw Mill River Rd, Yonkers, NY 10701",
+        "Latitude": 40.9437,
+        "Longitude": -73.881226,
+        "Rating": 1.0,
+        "Review_Count": 12
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Jersey City",
+        "Type": "Self Storage",
+        "Address": "276 Tonnelle Ave, Jersey City, NJ 07306",
+        "Latitude": 40.739812,
+        "Longitude": -74.064589,
+        "Rating": 1.9,
+        "Review_Count": 58
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "661 Broadway, Westwood, NJ 07675",
+        "Latitude": 40.9959851,
+        "Longitude": -74.0359832,
+        "Rating": 2.8,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Lexington Service Garage",
+        "Type": "Auto Repair",
+        "Address": "353 Lexington Ave, Clifton, NJ 07011",
+        "Latitude": 40.8735962,
+        "Longitude": -74.1308921,
+        "Rating": 3.9,
+        "Review_Count": 11
+    },
+    {
+        "Name": "York Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "1212 State Rt 23, Ste 1, Butler, NJ 07405",
+        "Latitude": 40.9906478294934,
+        "Longitude": -74.337946854845,
+        "Rating": 3.3,
+        "Review_Count": 11
+    },
+    {
+        "Name": "Jaguar Land Rover Manhattan",
+        "Type": "Car Dealers",
+        "Address": "787 11th Ave, Manhattan, NY 10019",
+        "Latitude": 40.7688149720214,
+        "Longitude": -73.9928671686645,
+        "Rating": 2.9,
+        "Review_Count": 68
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "3322 Hudson Ave, Union City, NJ 07087",
+        "Latitude": 40.7708661,
+        "Longitude": -74.0255195,
+        "Rating": 1.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Port Richmond",
+        "Type": "Truck Rental",
+        "Address": "2153 Richmond Ter, Staten Island, NY 10302",
+        "Latitude": 40.64064,
+        "Longitude": -74.13495,
+        "Rating": 2.2,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul of Middletown",
+        "Type": "Self Storage",
+        "Address": "1014 State Rte 35, Middletown, NJ 07748",
+        "Latitude": 40.3964015,
+        "Longitude": -74.1079914,
+        "Rating": 2.5,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Saddle Brook",
+        "Type": "Self Storage",
+        "Address": "210 US Hwy 46, Saddle Brook, NJ 07663",
+        "Latitude": 40.88913,
+        "Longitude": -74.096095,
+        "Rating": 2.1,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul at Flatbush",
+        "Type": "Truck Rental",
+        "Address": "5283 Kings Hwy, East Flatbush, NY 11234",
+        "Latitude": 40.6379062502652,
+        "Longitude": -73.9255817177395,
+        "Rating": 1.9,
+        "Review_Count": 24
+    },
+    {
+        "Name": "FDR Hitches",
+        "Type": "Trailer Dealers",
+        "Address": "120 W Westfield Ave, Roselle Park, NJ 07204",
+        "Latitude": 40.66072,
+        "Longitude": -74.26801,
+        "Rating": 3.0,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul - Linden",
+        "Type": "Self Storage",
+        "Address": "1440 E Edgar Rd, Linden, NJ 07036",
+        "Latitude": 40.6419799,
+        "Longitude": -74.22898,
+        "Rating": 1.0,
+        "Review_Count": 3
+    },
+    {
+        "Name": "East Hills Subaru",
+        "Type": "Car Dealers",
+        "Address": "1039 Northern Blvd, Roslyn, NY 11576",
+        "Latitude": 40.79811344662201,
+        "Longitude": -73.6663023327665,
+        "Rating": 3.3,
+        "Review_Count": 195
+    },
+    {
+        "Name": "CES Towing and Recovery",
+        "Type": "Towing",
+        "Address": "Roselle, NJ 07203",
+        "Latitude": 40.6454793865237,
+        "Longitude": -74.2544760760574,
+        "Rating": 4.5,
+        "Review_Count": 26
+    },
+    {
+        "Name": "Kustom Outfitterz",
+        "Type": "Car Stereo Installation",
+        "Address": "4412 Palisade Ave, Union City, NJ 07087",
+        "Latitude": 40.7779906,
+        "Longitude": -74.0213827,
+        "Rating": 4.7,
+        "Review_Count": 15
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "178 Forest Ave, Glen Cove, NY 11542",
+        "Latitude": 40.87402,
+        "Longitude": -73.61479,
+        "Rating": 4.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Brooklyn Chrysler Jeep Dodge Ram",
+        "Type": "Auto Repair",
+        "Address": "2286 Flatbush Ave, Brooklyn, NY 11234",
+        "Latitude": 40.61395,
+        "Longitude": -73.92763,
+        "Rating": 1.7,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul of Scotch Plains",
+        "Type": "Self Storage",
+        "Address": "2015 US Hwy 22 W, Scotch Plains, NJ 07076",
+        "Latitude": 40.6574336700213,
+        "Longitude": -74.3999616025162,
+        "Rating": 1.6,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul Moving & Storage of East Paterson",
+        "Type": "Self Storage",
+        "Address": "838 Market St, Paterson, NJ 07513",
+        "Latitude": 40.90412018114,
+        "Longitude": -74.1455784447746,
+        "Rating": 1.9,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Passaic",
+        "Type": "Truck Rental",
+        "Address": "541 Main Ave, Passaic, NJ 07055",
+        "Latitude": 40.8581741045248,
+        "Longitude": -74.1238542149996,
+        "Rating": 2.5,
+        "Review_Count": 6
+    },
+    {
+        "Name": "U-Haul Moving & Storage of North Newark",
+        "Type": "Truck Rental",
+        "Address": "830 Broadway, Newark, NJ 07104",
+        "Latitude": 40.77826,
+        "Longitude": -74.15734,
+        "Rating": 2.2,
+        "Review_Count": 11
+    },
+    {
+        "Name": "BSE Automotive",
+        "Type": "Auto Repair",
+        "Address": "218 W Elizabeth Ave, Linden, NJ 07036",
+        "Latitude": 40.62876,
+        "Longitude": -74.255,
+        "Rating": 5.0,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Riverdale",
+        "Type": "Self Storage",
+        "Address": "230 W 230th St, Bronx, NY 10463",
+        "Latitude": 40.87869,
+        "Longitude": -73.90916,
+        "Rating": 2.0,
+        "Review_Count": 32
+    },
+    {
+        "Name": "U-Haul Moving and Storage of East Brunswick",
+        "Type": "Self Storage",
+        "Address": "397 State Rte 18, East Brunswick, NJ 08816",
+        "Latitude": 40.448679,
+        "Longitude": -74.397258,
+        "Rating": 2.1,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Garavel Subaru",
+        "Type": "Car Dealers",
+        "Address": "520 Main Ave, Norwalk, CT 06851",
+        "Latitude": 41.15450605570891,
+        "Longitude": -73.42324310604593,
+        "Rating": 3.9,
+        "Review_Count": 208
+    },
+    {
+        "Name": "Ny-Nj Trailer Builders Supply",
+        "Type": "N/A",
+        "Address": "1401 State Rt 23, Butler, NJ 07405",
+        "Latitude": 40.99633,
+        "Longitude": -74.35291,
+        "Rating": 4.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Suburban Caps",
+        "Type": "Auto Parts & Supplies",
+        "Address": "899 Hwy 18 S, Old Bridge, NJ 08857",
+        "Latitude": 40.398677602978374,
+        "Longitude": -74.34942106441521,
+        "Rating": 3.5,
+        "Review_Count": 8
+    },
+    {
+        "Name": "Lakeville Towing",
+        "Type": "Towing",
+        "Address": "330 Candlewood Lake Rd, Brookfield, CT 06804",
+        "Latitude": 41.472859,
+        "Longitude": -73.430891,
+        "Rating": 2.2,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Precision Trailer Hitches and Welding",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10919 Randall St, Ste 4, Los Angeles, CA 91352",
+        "Latitude": 34.2394318229286,
+        "Longitude": -118.3688200447889,
+        "Rating": 4.8,
+        "Review_Count": 122
+    },
+    {
+        "Name": "Eckharts Trailer Hitch & Welding, Inc.",
+        "Type": "Auto Parts & Supplies",
+        "Address": "18604 Sherman Way, Reseda, CA 91335",
+        "Latitude": 34.2008018493652,
+        "Longitude": -118.538871765137,
+        "Rating": 4.6,
+        "Review_Count": 84
+    },
+    {
+        "Name": "The Hitch Depot",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1111 S Myrtle Ave, Monrovia, CA 91016",
+        "Latitude": 34.13958493695487,
+        "Longitude": -118.00137246437382,
+        "Rating": 4.3,
+        "Review_Count": 68
+    },
+    {
+        "Name": "RackStarz Vehicle Rack & Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1075 N Aviation Blvd, Manhattan Beach, CA 90266",
+        "Latitude": 33.88625,
+        "Longitude": -118.37889,
+        "Rating": 4.8,
+        "Review_Count": 52
+    },
+    {
+        "Name": "Rack Attack Los Angeles",
+        "Type": "Outdoor Gear",
+        "Address": "3127 Lincoln Blvd, Santa Monica, CA 90405",
+        "Latitude": 34.002772,
+        "Longitude": -118.470213,
+        "Rating": 4.6,
+        "Review_Count": 189
+    },
+    {
+        "Name": "Off Road Unlimited",
+        "Type": "Auto Parts & Supplies",
+        "Address": "9848 De Soto Ave, Chatsworth, CA 91311",
+        "Latitude": 34.2491335,
+        "Longitude": -118.5881715,
+        "Rating": 4.6,
+        "Review_Count": 145
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Trailer Dealers",
+        "Address": "960 S La Brea, Inglewood, CA 90301",
+        "Latitude": 33.9514065,
+        "Longitude": -118.3524351,
+        "Rating": 4.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Tony Mobile Repairs",
+        "Type": "Trailer Repair",
+        "Address": "1330 W 11th St, Santa Ana, CA 92703",
+        "Latitude": 33.753946,
+        "Longitude": -117.886437,
+        "Rating": 4.9,
+        "Review_Count": 77
+    },
+    {
+        "Name": "AV AUTO",
+        "Type": "Auto Repair",
+        "Address": "4975 W Adams Blvd, Los Angeles, CA 90016",
+        "Latitude": 34.03278,
+        "Longitude": -118.34903,
+        "Rating": 4.8,
+        "Review_Count": 135
+    },
+    {
+        "Name": "Rack N Road",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1995 Harbor Blvd, Ste A, Costa Mesa, CA 92627",
+        "Latitude": 33.64689,
+        "Longitude": -117.91977,
+        "Rating": 4.6,
+        "Review_Count": 351
+    },
+    {
+        "Name": "Eckharts Trailer Hitch & Welding",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10137 Sepulveda Blvd, Mission Hills, CA 91345",
+        "Latitude": 34.254911,
+        "Longitude": -118.467827,
+        "Rating": 4.4,
+        "Review_Count": 20
+    },
+    {
+        "Name": "Rack Attack - Pasadena",
+        "Type": "Bikes",
+        "Address": "3725 E Colorado Blvd, Pasadena, CA 91107",
+        "Latitude": 34.14656,
+        "Longitude": -118.0724,
+        "Rating": 4.5,
+        "Review_Count": 167
+    },
+    {
+        "Name": "West Coast Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "15701 Container Ln, Huntington Beach, CA 92649",
+        "Latitude": 33.734467,
+        "Longitude": -118.035234,
+        "Rating": 4.6,
+        "Review_Count": 55
+    },
+    {
+        "Name": "BMW MINI Downtown LA Certified Collision Center",
+        "Type": "Body Shops",
+        "Address": "6000 S Alameda St, Huntington Park, CA 90255",
+        "Latitude": 33.986923,
+        "Longitude": -118.236903,
+        "Rating": 4.6,
+        "Review_Count": 121
+    },
+    {
+        "Name": "South Bay LINE-X",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5117 W Rosecrans Ave, Hawthorne, CA 90250",
+        "Latitude": 33.902092035137855,
+        "Longitude": -118.36790713290736,
+        "Rating": 4.3,
+        "Review_Count": 31
+    },
+    {
+        "Name": "Jacks Mobile RV Services",
+        "Type": "Trailer Repair",
+        "Address": "Garden Grove, CA 92841",
+        "Latitude": 33.78683643974319,
+        "Longitude": -117.98203005109228,
+        "Rating": 4.9,
+        "Review_Count": 83
+    },
+    {
+        "Name": "LA RV Center",
+        "Type": "RV Dealers",
+        "Address": "1220 S Victory Blvd, Ste B, Burbank, CA 91502",
+        "Latitude": 34.165222,
+        "Longitude": -118.305087,
+        "Rating": 4.9,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Happier Camper Rentals",
+        "Type": "Trailer Dealers",
+        "Address": "2960 Marsh St, Los Angeles, CA 90039",
+        "Latitude": 34.107325205629145,
+        "Longitude": -118.2467675,
+        "Rating": 4.7,
+        "Review_Count": 40
+    },
+    {
+        "Name": "Master Trailers",
+        "Type": "Metal Fabricators",
+        "Address": "Los Angeles, CA 91356",
+        "Latitude": 34.1703910827637,
+        "Longitude": -118.540382385254,
+        "Rating": 4.5,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Lomita Trailer Supply",
+        "Type": "RV Dealers",
+        "Address": "2250 Pacific Coast Hwy, Lomita, CA 90717",
+        "Latitude": 33.7893824,
+        "Longitude": -118.3219699,
+        "Rating": 3.8,
+        "Review_Count": 52
+    },
+    {
+        "Name": "All County RV Solar & Service",
+        "Type": "RV Repair",
+        "Address": "1161 N Cosby Way, Unit V, Anaheim , CA 92806",
+        "Latitude": 33.8559149,
+        "Longitude": -117.84588967055048,
+        "Rating": 4.7,
+        "Review_Count": 42
+    },
+    {
+        "Name": "U-Haul of Burbank",
+        "Type": "Truck Rental",
+        "Address": "924 S Victory Bl, Burbank, CA 91506",
+        "Latitude": 34.16725,
+        "Longitude": -118.30801,
+        "Rating": 3.5,
+        "Review_Count": 67
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "2451 S Crenshaw Bl, Los Angeles, CA 90016",
+        "Latitude": 34.034293,
+        "Longitude": -118.334658,
+        "Rating": 2.8,
+        "Review_Count": 87
+    },
+    {
+        "Name": "Discount Camper Shells",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3001 Orange Ave, Long Beach, CA 90807",
+        "Latitude": 33.812,
+        "Longitude": -118.17666,
+        "Rating": 4.7,
+        "Review_Count": 89
+    },
+    {
+        "Name": "Tow Smart Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "10741 Forest St, Santa Fe Springs, CA 90670",
+        "Latitude": 33.9360252767801,
+        "Longitude": -118.066213354468,
+        "Rating": 4.5,
+        "Review_Count": 31
+    },
+    {
+        "Name": "Rack Attack - Sherman Oaks",
+        "Type": "Auto Parts & Supplies",
+        "Address": "4553 Van Nuys Blvd, Los Angeles, CA 91403",
+        "Latitude": 34.15449,
+        "Longitude": -118.44889,
+        "Rating": 4.6,
+        "Review_Count": 36
+    },
+    {
+        "Name": "ModBargains",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1721 E Lambert Rd, Unit A, La Habra, CA 90631",
+        "Latitude": 33.925141,
+        "Longitude": -117.928055,
+        "Rating": 4.5,
+        "Review_Count": 406
+    },
+    {
+        "Name": "Bear Trailersports",
+        "Type": "Trailer Dealers",
+        "Address": "20845 Prairie St, Chatsworth, CA 91311",
+        "Latitude": 34.2411041259766,
+        "Longitude": -118.587890625,
+        "Rating": 4.9,
+        "Review_Count": 27
+    },
+    {
+        "Name": "U-Haul of North Hollywood",
+        "Type": "Truck Rental",
+        "Address": "11666 Victory Blvd, North Hollywood, CA 91606",
+        "Latitude": 34.1865380371698,
+        "Longitude": -118.386728557672,
+        "Rating": 2.9,
+        "Review_Count": 80
+    },
+    {
+        "Name": "Concept 3 Performance",
+        "Type": "Car Stereo Installation",
+        "Address": "14545 Valley View Ave, Unit E, Santa Fe Springs, CA 90670",
+        "Latitude": 33.9001635,
+        "Longitude": -118.0292849,
+        "Rating": 4.5,
+        "Review_Count": 144
+    },
+    {
+        "Name": "U-Haul - Los Angeles",
+        "Type": "Self Storage",
+        "Address": "1836 S Arapahoe St, Los Angeles, CA 90006",
+        "Latitude": 34.04067,
+        "Longitude": -118.285118,
+        "Rating": 2.0,
+        "Review_Count": 52
+    },
+    {
+        "Name": "Six Autosound & Window Tint",
+        "Type": "Car Stereo Installation",
+        "Address": "3225 W Olympic Blvd, Ste 4, Los Angeles, CA 90006",
+        "Latitude": 34.0529740864831,
+        "Longitude": -118.307226984455,
+        "Rating": 4.6,
+        "Review_Count": 340
+    },
+    {
+        "Name": "U-Haul - Hollywood",
+        "Type": "Truck Rental",
+        "Address": "4550 Hollywood Blvd, Hollywood, CA 90027",
+        "Latitude": 34.09882151342339,
+        "Longitude": -118.288884981002,
+        "Rating": 2.1,
+        "Review_Count": 153
+    },
+    {
+        "Name": "Plaza Muffler & Hitches",
+        "Type": "Auto Parts & Supplies",
+        "Address": "13282 Goldenwest, Westminster, CA 92683",
+        "Latitude": 33.769389,
+        "Longitude": -118.006414,
+        "Rating": 4.1,
+        "Review_Count": 26
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "1600 S Western Ave, Los Angeles, CA 90006",
+        "Latitude": 34.0431694127582,
+        "Longitude": -118.308877086522,
+        "Rating": 2.4,
+        "Review_Count": 81
+    },
+    {
+        "Name": "4 Wheel Parts",
+        "Type": "Tires",
+        "Address": "7640 Sepulveda Blvd, Van Nuys, CA 91405",
+        "Latitude": 34.2095708,
+        "Longitude": -118.4660149,
+        "Rating": 2.9,
+        "Review_Count": 181
+    },
+    {
+        "Name": "Line-X of Pasadena",
+        "Type": "Auto Customization",
+        "Address": "1815 S Myrtle Ave, Monrovia, CA 91016",
+        "Latitude": 34.1314033842729,
+        "Longitude": -118.001242441105,
+        "Rating": 4.9,
+        "Review_Count": 75
+    },
+    {
+        "Name": "The RV Repair Guy",
+        "Type": "RV Repair",
+        "Address": "San Clemente, CA 92672",
+        "Latitude": 33.42303,
+        "Longitude": -117.60497,
+        "Rating": 4.9,
+        "Review_Count": 66
+    },
+    {
+        "Name": "U-Haul of Glendale",
+        "Type": "Self Storage",
+        "Address": "1313 S Brand Bl, Glendale, CA 91204",
+        "Latitude": 34.129321,
+        "Longitude": -118.255176,
+        "Rating": 2.5,
+        "Review_Count": 91
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "1747 Lincoln Bl, Santa Monica, CA 90404",
+        "Latitude": 34.014212,
+        "Longitude": -118.484878,
+        "Rating": 3.1,
+        "Review_Count": 173
+    },
+    {
+        "Name": "FLASHBURN",
+        "Type": "Trailer Repair",
+        "Address": "San Fernando, CA 91344",
+        "Latitude": 34.27376,
+        "Longitude": -118.48848,
+        "Rating": 5.0,
+        "Review_Count": 10
+    },
+    {
+        "Name": "Carson Trailer",
+        "Type": "Trailer Dealers",
+        "Address": "14831 S Maple Ave, Gardena, CA 90248",
+        "Latitude": 33.8972044,
+        "Longitude": -118.2730524,
+        "Rating": 2.5,
+        "Review_Count": 47
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "116 S Western Av, Los Angeles, CA 90004",
+        "Latitude": 34.07299,
+        "Longitude": -118.30876,
+        "Rating": 1.9,
+        "Review_Count": 26
+    },
+    {
+        "Name": "Evolution Motorsports",
+        "Type": "Car Stereo Installation",
+        "Address": "3400 S Broadway, Los Angeles, CA 90007",
+        "Latitude": 34.01891,
+        "Longitude": -118.27371,
+        "Rating": 4.9,
+        "Review_Count": 867
+    },
+    {
+        "Name": "Minicorsa",
+        "Type": "Auto Repair",
+        "Address": "11343 Burbank Blvd, North Hollywood, CA 91601",
+        "Latitude": 34.17248,
+        "Longitude": -118.37819,
+        "Rating": 4.8,
+        "Review_Count": 222
+    },
+    {
+        "Name": "Aaron's Mobile RV Service",
+        "Type": "RV Repair",
+        "Address": "Orange County, CA 92602",
+        "Latitude": 33.7268676757812,
+        "Longitude": -117.771766662598,
+        "Rating": 4.8,
+        "Review_Count": 185
+    },
+    {
+        "Name": "Complete Truck Body Repair",
+        "Type": "Commercial Truck Repair",
+        "Address": "1217 Alameda St W, Compton, CA 90222",
+        "Latitude": 33.9046689,
+        "Longitude": -118.2219805,
+        "Rating": 5.0,
+        "Review_Count": 27
+    },
+    {
+        "Name": "O'Reilly Auto Parts",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1233 E Colorado St, Glendale, CA 91205",
+        "Latitude": 34.142825,
+        "Longitude": -118.238197,
+        "Rating": 4.6,
+        "Review_Count": 57
+    },
+    {
+        "Name": "LINE-X of Santa Clarita",
+        "Type": "Auto Parts & Supplies",
+        "Address": "26845 Oak Ave 4, Ste 4, Santa Clarita, CA 91351",
+        "Latitude": 34.42473,
+        "Longitude": -118.50105,
+        "Rating": 5.0,
+        "Review_Count": 87
+    },
+    {
+        "Name": "U-Haul - Torrance",
+        "Type": "Self Storage",
+        "Address": "24091 Hawthorne Bl, Torrance, CA 90505",
+        "Latitude": 33.804358,
+        "Longitude": -118.351492,
+        "Rating": 3.8,
+        "Review_Count": 72
+    },
+    {
+        "Name": "Master Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "326 N Nw Hwy, Palatine, IL 60067",
+        "Latitude": 42.116922,
+        "Longitude": -88.034423,
+        "Rating": 4.9,
+        "Review_Count": 80
+    },
+    {
+        "Name": "Rack Attack Chicago",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3750 Dempster St, Skokie, IL 60076",
+        "Latitude": 42.04106,
+        "Longitude": -87.72254,
+        "Rating": 4.8,
+        "Review_Count": 27
+    },
+    {
+        "Name": "Sub-Trailer Service",
+        "Type": "Auto Parts & Supplies",
+        "Address": "415 E St Charles Rd, Villa Park, IL 60181",
+        "Latitude": 41.88971,
+        "Longitude": -87.96838,
+        "Rating": 4.3,
+        "Review_Count": 18
+    },
+    {
+        "Name": "A Trendz Auto & Truck Accessory Shoppe",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6333 N Northwest Hwy, Chicago, IL 60631",
+        "Latitude": 41.99673398345419,
+        "Longitude": -87.80576146082409,
+        "Rating": 4.5,
+        "Review_Count": 71
+    },
+    {
+        "Name": "Mr Kustom",
+        "Type": "Auto Customization",
+        "Address": "3708 W Irving Park Rd, Chicago, IL 60618",
+        "Latitude": 41.9540216,
+        "Longitude": -87.7207899,
+        "Rating": 3.3,
+        "Review_Count": 88
+    },
+    {
+        "Name": "Vacationland",
+        "Type": "RV Dealers",
+        "Address": "47W529 US Rt 30, Big Rock, IL 60511",
+        "Latitude": 41.7642654449349,
+        "Longitude": -88.538375727356,
+        "Rating": 4.5,
+        "Review_Count": 38
+    },
+    {
+        "Name": "CPW Truck Stuff",
+        "Type": "Auto Parts & Supplies",
+        "Address": "7601 W 191st St, Tinley Park, IL 60487",
+        "Latitude": 41.543306,
+        "Longitude": -87.802269,
+        "Rating": 4.4,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Portage Park",
+        "Type": "Self Storage",
+        "Address": "4301 N Cicero Ave, Chicago, IL 60641",
+        "Latitude": 41.958260902446,
+        "Longitude": -87.747221882678,
+        "Rating": 2.3,
+        "Review_Count": 60
+    },
+    {
+        "Name": "Mid City Engineering",
+        "Type": "Auto Customization",
+        "Address": "1322 W Walton St, Chicago, IL 60642",
+        "Latitude": 41.8993208304291,
+        "Longitude": -87.660758145998,
+        "Rating": 4.1,
+        "Review_Count": 16
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Avondale",
+        "Type": "Truck Rental",
+        "Address": "3250 N Kedzie Ave, Chicago, IL 60618",
+        "Latitude": 41.940715,
+        "Longitude": -87.7077962,
+        "Rating": 2.0,
+        "Review_Count": 61
+    },
+    {
+        "Name": "U-Haul - Bolingbrook",
+        "Type": "Self Storage",
+        "Address": "240 W N Frontage Rd, Bolingbrook, IL 60440",
+        "Latitude": 41.681775,
+        "Longitude": -88.075909,
+        "Rating": 3.1,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul - Forest Park",
+        "Type": "Trailer Dealers",
+        "Address": "797 S Harlem Ave, Forest Park, IL 60130",
+        "Latitude": 41.872487,
+        "Longitude": -87.8046465,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Super Mobile Mechanics",
+        "Type": "Body Shops",
+        "Address": "Bolingbrook, IL 60440",
+        "Latitude": 41.69696807861328,
+        "Longitude": -88.07913208007812,
+        "Rating": 3.5,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Up-Town",
+        "Type": "Self Storage",
+        "Address": "4055 N Broadway, Chicago, IL 60613",
+        "Latitude": 41.956680236224315,
+        "Longitude": -87.65063454313537,
+        "Rating": 2.0,
+        "Review_Count": 167
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Morton Grove ",
+        "Type": "Self Storage",
+        "Address": "9009 Waukegan Rd, Morton Grove, IL 60053",
+        "Latitude": 42.044859,
+        "Longitude": -87.7991,
+        "Rating": 2.5,
+        "Review_Count": 35
+    },
+    {
+        "Name": "Bespoke Motorwerke",
+        "Type": "Car Window Tinting",
+        "Address": "770 N Church Rd, Ste I, Elmhurst, IL 60126",
+        "Latitude": 41.92269375880732,
+        "Longitude": -87.95375074616258,
+        "Rating": 4.2,
+        "Review_Count": 5
+    },
+    {
+        "Name": "House of Rental",
+        "Type": "Party Equipment Rentals",
+        "Address": "5115 Church St, Skokie, IL 60077",
+        "Latitude": 42.047587,
+        "Longitude": -87.753566,
+        "Rating": 4.5,
+        "Review_Count": 47
+    },
+    {
+        "Name": "The Autobarn Subaru of Countryside",
+        "Type": "Car Dealers",
+        "Address": "6191 Joliet Rd, Countryside, IL 60525",
+        "Latitude": 41.7778282165527,
+        "Longitude": -87.8705673217773,
+        "Rating": 3.4,
+        "Review_Count": 203
+    },
+    {
+        "Name": "Berman Subaru of Chicago",
+        "Type": "Car Dealers",
+        "Address": "4330 W Irving Park Rd, Chicago, IL 60641",
+        "Latitude": 41.95375397714552,
+        "Longitude": -87.73712566043844,
+        "Rating": 3.3,
+        "Review_Count": 487
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Westside",
+        "Type": "Self Storage",
+        "Address": "1700 N Cicero Ave, Chicago, IL 60639",
+        "Latitude": 41.91164,
+        "Longitude": -87.746034,
+        "Rating": 1.4,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Patrick BMW",
+        "Type": "Car Dealers",
+        "Address": "700 E Golf Rd, Schaumburg, IL 60173",
+        "Latitude": 42.0512098,
+        "Longitude": -88.0621396,
+        "Rating": 3.7,
+        "Review_Count": 419
+    },
+    {
+        "Name": "U-Haul of Palatine",
+        "Type": "Truck Rental",
+        "Address": "1235 E Dundee Rd, Palatine, IL 60074",
+        "Latitude": 42.1387237,
+        "Longitude": -88.0145037,
+        "Rating": 2.6,
+        "Review_Count": 29
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Forest Park",
+        "Type": "Self Storage",
+        "Address": "801 S Harlem Ave, Forest Park, IL 60130",
+        "Latitude": 41.87269,
+        "Longitude": -87.8053,
+        "Rating": 2.0,
+        "Review_Count": 52
+    },
+    {
+        "Name": "Honda of Lisle",
+        "Type": "Auto Repair",
+        "Address": "4475 Lincoln Ave, Lisle, IL 60532",
+        "Latitude": 41.8056229,
+        "Longitude": -88.076527,
+        "Rating": 2.4,
+        "Review_Count": 235
+    },
+    {
+        "Name": "U-Haul Moving & Storage of East Bellwood",
+        "Type": "Truck Rental",
+        "Address": "950 S 25th Ave, Bellwood, IL 60104",
+        "Latitude": 41.87519,
+        "Longitude": -87.86457,
+        "Rating": 3.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lincoln Park",
+        "Type": "Self Storage",
+        "Address": "1200 W Fullerton Ave, Chicago, IL 60614",
+        "Latitude": 41.9253801126179,
+        "Longitude": -87.659228382975,
+        "Rating": 2.3,
+        "Review_Count": 123
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Alsip",
+        "Type": "Self Storage",
+        "Address": "11855 S Cicero Ave, Alsip, IL 60803",
+        "Latitude": 41.676684285970005,
+        "Longitude": -87.73841236649524,
+        "Rating": 1.5,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Broadview",
+        "Type": "Self Storage",
+        "Address": "2001 W Roosevelt Rd, Broadview, IL 60155",
+        "Latitude": 41.8642453184891,
+        "Longitude": -87.85703319999999,
+        "Rating": 3.4,
+        "Review_Count": 13
+    },
+    {
+        "Name": "Arts RV Service Center",
+        "Type": "RV Dealers",
+        "Address": "21W700 North Ave, Glen Ellyn, IL 60137",
+        "Latitude": 41.904486,
+        "Longitude": -88.0499935352569,
+        "Rating": 2.6,
+        "Review_Count": 40
+    },
+    {
+        "Name": "U-Haul Of Des Plaines",
+        "Type": "Truck Rental",
+        "Address": "1560 Mt Prospect Rd, Des Plaines, IL 60018",
+        "Latitude": 42.023093,
+        "Longitude": -87.921508,
+        "Rating": 1.8,
+        "Review_Count": 36
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Oak Lawn",
+        "Type": "Truck Rental",
+        "Address": "8900 S Cicero Ave, Oak Lawn, IL 60453",
+        "Latitude": 41.7303051,
+        "Longitude": -87.7413126,
+        "Rating": 1.8,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Volkswagen of Downtown Chicago",
+        "Type": "Auto Repair",
+        "Address": "1111 N Clark St, Chicago, IL 60610",
+        "Latitude": 41.902208,
+        "Longitude": -87.630988,
+        "Rating": 2.0,
+        "Review_Count": 155
+    },
+    {
+        "Name": "U-Haul Moving & Storage",
+        "Type": "Truck Rental",
+        "Address": "200 Industrial Dr, Lincolnshire, IL 60069",
+        "Latitude": 42.18183282132361,
+        "Longitude": -87.94391139999999,
+        "Rating": 1.7,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul of Arlington Heights",
+        "Type": "Truck Rental",
+        "Address": "2400 Rand Rd, Arlington Heights, IL 60004",
+        "Latitude": 42.095163581306,
+        "Longitude": -87.9539306200551,
+        "Rating": 3.3,
+        "Review_Count": 18
+    },
+    {
+        "Name": "Rogers Hyundai",
+        "Type": "Car Dealers",
+        "Address": "2700 S Michigan Ave, Chicago, IL 60616",
+        "Latitude": 41.8442882,
+        "Longitude": -87.6237617,
+        "Rating": 2.6,
+        "Review_Count": 92
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Niles",
+        "Type": "Truck Rental",
+        "Address": "7644 N Milwaukee Ave, Niles, IL 60714",
+        "Latitude": 42.019948,
+        "Longitude": -87.808961,
+        "Rating": 1.6,
+        "Review_Count": 26
+    },
+    {
+        "Name": "Moving & Storage",
+        "Type": "Self Storage",
+        "Address": "9356 S Roberts Rd, Oak Lawn, IL 60457",
+        "Latitude": 41.72052,
+        "Longitude": -87.81834,
+        "Rating": 1.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage of South Shore",
+        "Type": "Self Storage",
+        "Address": "1650 E 71st St, Chicago, IL 60649",
+        "Latitude": 41.766498,
+        "Longitude": -87.58393,
+        "Rating": 2.2,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Midway",
+        "Type": "Self Storage",
+        "Address": "4705 W 47th St, Chicago, IL 60632",
+        "Latitude": 41.807559,
+        "Longitude": -87.741311,
+        "Rating": 3.5,
+        "Review_Count": 11
+    },
+    {
+        "Name": "Advanced Heating & Airconditioning",
+        "Type": "N/A",
+        "Address": "5233 S Neva Ave, Chicago, IL 60638",
+        "Latitude": 41.7965774536133,
+        "Longitude": -87.8000183105469,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Napleton Honda",
+        "Type": "Car Dealers",
+        "Address": "6900 Dempster St, Morton Grove, IL 60053",
+        "Latitude": 42.0409849,
+        "Longitude": -87.7980608,
+        "Rating": 2.7,
+        "Review_Count": 405
+    },
+    {
+        "Name": "Kevin's Automotive w/ U-Haul",
+        "Type": "Auto Repair",
+        "Address": "4344 Hohman Ave, Hammond, IN 46327",
+        "Latitude": 41.634192,
+        "Longitude": -87.517584,
+        "Rating": 2.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Mcgrath Acura Of Morton Grove",
+        "Type": "Car Dealers",
+        "Address": "9105 Waukegan Rd, Morton Grove, IL 60053",
+        "Latitude": 42.04684,
+        "Longitude": -87.798614,
+        "Rating": 3.4,
+        "Review_Count": 381
+    },
+    {
+        "Name": "McGrath Lexus of Westmont",
+        "Type": "Car Dealers",
+        "Address": "500 E Ogden Ave, Westmont, IL 60559",
+        "Latitude": 41.811206,
+        "Longitude": -87.961819,
+        "Rating": 3.5,
+        "Review_Count": 141
+    },
+    {
+        "Name": "Castle Chevrolet North",
+        "Type": "Auto Repair",
+        "Address": "175 N Arlington Heights Rd, Elk Grove Village, IL 60007",
+        "Latitude": 42.029812,
+        "Longitude": -87.9860131,
+        "Rating": 2.7,
+        "Review_Count": 92
+    },
+    {
+        "Name": "Golf Mill Ford",
+        "Type": "Car Dealers",
+        "Address": "9401 N Milwaukee Ave, Niles, IL 60714",
+        "Latitude": 42.051204,
+        "Longitude": -87.833804,
+        "Rating": 2.6,
+        "Review_Count": 553
+    },
+    {
+        "Name": "Oakbrook Toyota",
+        "Type": "Car Dealers",
+        "Address": "550 E Ogden Ave, Westmont, IL 60559",
+        "Latitude": 41.81112362552229,
+        "Longitude": -87.95955240726465,
+        "Rating": 2.6,
+        "Review_Count": 218
+    },
+    {
+        "Name": "Fields Chrysler Jeep Dodge Ram",
+        "Type": "Car Dealers",
+        "Address": "2800 Patriot Blvd, Glenview, IL 60026",
+        "Latitude": 42.10634,
+        "Longitude": -87.82481,
+        "Rating": 3.6,
+        "Review_Count": 271
+    },
+    {
+        "Name": "Arlington Toyota",
+        "Type": "Car Dealers",
+        "Address": "2095 N Rand Rd, Palatine, IL 60074",
+        "Latitude": 42.1487739,
+        "Longitude": -88.0301632,
+        "Rating": 2.1,
+        "Review_Count": 397
+    },
+    {
+        "Name": "Master Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5300 Glenmont Dr, Houston, TX 77081",
+        "Latitude": 29.72052,
+        "Longitude": -95.47269,
+        "Rating": 4.9,
+        "Review_Count": 82
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2602 Karbach St, Houston, TX 77092",
+        "Latitude": 29.81130510908193,
+        "Longitude": -95.46103147054924,
+        "Rating": 4.0,
+        "Review_Count": 20
+    },
+    {
+        "Name": "Hitch Pros Bed liners & Truck Accessories",
+        "Type": "Trailer Dealers",
+        "Address": "7718 Lettie St, Houston, TX 77075",
+        "Latitude": 29.6045051,
+        "Longitude": -95.2859294,
+        "Rating": 5.0,
+        "Review_Count": 6
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "11501 N Fwy, Houston, TX 77060",
+        "Latitude": 29.9332217,
+        "Longitude": -95.4127422,
+        "Rating": 4.1,
+        "Review_Count": 17
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2320 Shaver St, Pasadena, TX 77502",
+        "Latitude": 29.676467,
+        "Longitude": -95.208573,
+        "Rating": 4.3,
+        "Review_Count": 12
+    },
+    {
+        "Name": "HR Hitches truck and trailer accessories",
+        "Type": "Trailer Repair",
+        "Address": "Houston, TX 77063",
+        "Latitude": 29.73402,
+        "Longitude": -95.52038,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage At The Heights",
+        "Type": "Self Storage",
+        "Address": "4825 W 34th St, Houston, TX 77092",
+        "Latitude": 29.81916777363651,
+        "Longitude": -95.461766,
+        "Rating": 2.5,
+        "Review_Count": 24
+    },
+    {
+        "Name": "Hurricane Auto",
+        "Type": "Auto Glass Services",
+        "Address": "11000 Gulf Fwy, Houston, TX 77034",
+        "Latitude": 29.634672,
+        "Longitude": -95.237892,
+        "Rating": 4.2,
+        "Review_Count": 37
+    },
+    {
+        "Name": "Trailer Wheel & Frame Co.",
+        "Type": "Auto Parts & Supplies",
+        "Address": "8222 North Fwy, Houston, TX 77037",
+        "Latitude": 29.87966,
+        "Longitude": -95.41044,
+        "Rating": 2.8,
+        "Review_Count": 26
+    },
+    {
+        "Name": "Allout Offroad Performance",
+        "Type": "Tires",
+        "Address": "708 E Hwy 90A, Richmond, TX 77469",
+        "Latitude": 29.587006,
+        "Longitude": -95.7496929,
+        "Rating": 3.6,
+        "Review_Count": 19
+    },
+    {
+        "Name": "AllOut Offroad",
+        "Type": "Auto Customization",
+        "Address": "10330 Grand Pkwy, Tomball, TX 77375",
+        "Latitude": 30.0600675002847,
+        "Longitude": -95.5735557686402,
+        "Rating": 4.3,
+        "Review_Count": 16
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Memorial City",
+        "Type": "Self Storage",
+        "Address": "10220 Katy Fwy, Houston, TX 77043",
+        "Latitude": 29.78515046725202,
+        "Longitude": -95.55102840241308,
+        "Rating": 2.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "RV Repair",
+        "Address": "16009 Katy Fwy, Houston, TX 77094",
+        "Latitude": 29.78373453084184,
+        "Longitude": -95.66356052814754,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Kingwood",
+        "Type": "Self Storage",
+        "Address": "22250 Hwy 59 N, Kingwood, TX 77339",
+        "Latitude": 30.038303,
+        "Longitude": -95.2546,
+        "Rating": 2.5,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul - Houston",
+        "Type": "Self Storage",
+        "Address": "1617 San Jacinto St, Houston, TX 77002",
+        "Latitude": 29.75067,
+        "Longitude": -95.36683,
+        "Rating": 2.7,
+        "Review_Count": 14
+    },
+    {
+        "Name": "Smitty's RV & Welding",
+        "Type": "Metal Fabricators",
+        "Address": "1500 Brittmoore Rd, Ste 102a, Houston, TX 77043",
+        "Latitude": 29.800599740236834,
+        "Longitude": -95.56908783757324,
+        "Rating": 3.9,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Meyerland Area",
+        "Type": "Self Storage",
+        "Address": "6808 Bissonnet St, Houston, TX 77074",
+        "Latitude": 29.689744572606877,
+        "Longitude": -95.50339537043077,
+        "Rating": 2.6,
+        "Review_Count": 24
+    },
+    {
+        "Name": "Allout Offroad Performance",
+        "Type": "Auto Customization",
+        "Address": "2720 Westminister St, Pearland, TX 77581",
+        "Latitude": 29.5574537,
+        "Longitude": -95.2694074,
+        "Rating": 4.3,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul - Houston",
+        "Type": "Self Storage",
+        "Address": "11300 S Sam Houston Pkwy W, Houston, TX 77031",
+        "Latitude": 29.6477972711818,
+        "Longitude": -95.5421868542531,
+        "Rating": 2.7,
+        "Review_Count": 7
+    },
+    {
+        "Name": "The Fud Trailer",
+        "Type": "Trailer Dealers",
+        "Address": "4710 N Shepherd Dr, Houston, TX 77018",
+        "Latitude": 29.8335240381,
+        "Longitude": -95.4103957256,
+        "Rating": 3.0,
+        "Review_Count": 6
+    },
+    {
+        "Name": "Allout Offroad Performance",
+        "Type": "Auto Parts & Supplies",
+        "Address": "13261 Murphy Rd, Stafford, TX 77477",
+        "Latitude": 29.6294124,
+        "Longitude": -95.5647087,
+        "Rating": 4.5,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul of Northshore",
+        "Type": "Truck Rental",
+        "Address": "13330 I-10 E, Houston, TX 77015",
+        "Latitude": 29.770067,
+        "Longitude": -95.1887643,
+        "Rating": 2.1,
+        "Review_Count": 7
+    },
+    {
+        "Name": "Pickups Plus",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1718 Fry Rd, Ste 175, Houston, TX 77084",
+        "Latitude": 29.7915595896756,
+        "Longitude": -95.7180829958744,
+        "Rating": 3.3,
+        "Review_Count": 18
+    },
+    {
+        "Name": "Tomball Tinters",
+        "Type": "Auto Parts & Supplies",
+        "Address": "27503 Tomball Pkwy 9, Ste 9, Tomball, TX 77375",
+        "Latitude": 30.074572204373865,
+        "Longitude": -95.62876134343615,
+        "Rating": 3.8,
+        "Review_Count": 21
+    },
+    {
+        "Name": "TrailersPlus - Houston",
+        "Type": "Trailer Dealers",
+        "Address": "1755 Fm 1960 W, Houston, TX 77090",
+        "Latitude": 30.01038057767467,
+        "Longitude": -95.4561786,
+        "Rating": 1.8,
+        "Review_Count": 10
+    },
+    {
+        "Name": "U Haul Moving & Storage of Katy",
+        "Type": "Self Storage",
+        "Address": "20435 Katy Frwy, Katy, TX 77450",
+        "Latitude": 29.784598,
+        "Longitude": -95.726694,
+        "Rating": 2.5,
+        "Review_Count": 34
+    },
+    {
+        "Name": "U-Haul Moving & Storage at I-45 & Richey",
+        "Type": "Self Storage",
+        "Address": "16405 I-45 N, Houston, TX 77090",
+        "Latitude": 30.0050571702101,
+        "Longitude": -95.427519,
+        "Rating": 4.0,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "5300 N Braeswood Blvd, Ste 4, Houston, TX 77096",
+        "Latitude": 29.679123274987504,
+        "Longitude": -95.4781088,
+        "Rating": 2.3,
+        "Review_Count": 3
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Sugarland Airport Area",
+        "Type": "Self Storage",
+        "Address": "8518 Hwy 6 S, Houston, TX 77083",
+        "Latitude": 29.6854836867993,
+        "Longitude": -95.6439977343933,
+        "Rating": 1.7,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul Moving & Storage at 290 & Fairbanks",
+        "Type": "Self Storage",
+        "Address": "14225 NW Frwy, Houston, TX 77040",
+        "Latitude": 29.860337,
+        "Longitude": -95.52788,
+        "Rating": 1.6,
+        "Review_Count": 18
+    },
+    {
+        "Name": "Sterling McCall Toyota",
+        "Type": "Car Dealers",
+        "Address": "9400 Southwest Freeway, Houston, TX 77074",
+        "Latitude": 29.6795282987466,
+        "Longitude": -95.54072665340549,
+        "Rating": 2.8,
+        "Review_Count": 371
+    },
+    {
+        "Name": "North Freeway Hyundai",
+        "Type": "Auto Repair",
+        "Address": "20440 Interstate 45 N, Spring, TX 77373",
+        "Latitude": 30.06227,
+        "Longitude": -95.431995,
+        "Rating": 2.7,
+        "Review_Count": 180
+    },
+    {
+        "Name": "U-Haul Moving & Storage of League City",
+        "Type": "Self Storage",
+        "Address": "351 Gulf Fwy S, League City, TX 77573",
+        "Latitude": 29.498048,
+        "Longitude": -95.112018,
+        "Rating": 1.8,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul Moving & Storage -  Willowbrook",
+        "Type": "Truck Rental",
+        "Address": "9411 FM 1960 W, Houston, TX 77070",
+        "Latitude": 29.944769021228,
+        "Longitude": -95.5653359791679,
+        "Rating": 1.5,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Tino's Car Visions",
+        "Type": "Car Stereo Installation",
+        "Address": "4002 Center St, Deer Park, TX 77536",
+        "Latitude": 29.67549017,
+        "Longitude": -95.12370083,
+        "Rating": 3.8,
+        "Review_Count": 22
+    },
+    {
+        "Name": "Countryside Trailer Sales",
+        "Type": "Trailer Dealers",
+        "Address": "21840 I-45, Spring, TX 77373",
+        "Latitude": 30.082449,
+        "Longitude": -95.4359161,
+        "Rating": 2.1,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Spring",
+        "Type": "Self Storage",
+        "Address": "1609 Spring Cypress Rd, Spring, TX 77388",
+        "Latitude": 30.073596,
+        "Longitude": -95.43701,
+        "Rating": 2.6,
+        "Review_Count": 30
+    },
+    {
+        "Name": "At Your Door Mobile Hitches",
+        "Type": "Auto Repair",
+        "Address": "Scottsdale, AZ 85250",
+        "Latitude": 33.52331,
+        "Longitude": -111.90879,
+        "Rating": 4.9,
+        "Review_Count": 59
+    },
+    {
+        "Name": "Lewis Hitches",
+        "Type": "Trailer Repair",
+        "Address": "80 E Highland St, Ste 1, Chandler, AZ 85225",
+        "Latitude": 33.33234,
+        "Longitude": -111.839857,
+        "Rating": 4.8,
+        "Review_Count": 58
+    },
+    {
+        "Name": "Hard Hitch Mobile",
+        "Type": "Trailer Repair",
+        "Address": "Phoenix, AZ 85024",
+        "Latitude": 33.66213,
+        "Longitude": -112.05566,
+        "Rating": 5.0,
+        "Review_Count": 5
+    },
+    {
+        "Name": "State Trailer RV & Outdoor Supply",
+        "Type": "RV Repair",
+        "Address": "8200 W Peoria Ave, Ste 140, Peoria, AZ 85345",
+        "Latitude": 33.583596,
+        "Longitude": -112.235164,
+        "Rating": 4.2,
+        "Review_Count": 43
+    },
+    {
+        "Name": "B & M Bumpers & Hitches",
+        "Type": "Trailer Repair",
+        "Address": "4645 W Missouri Ave, Glendale, AZ 85301",
+        "Latitude": 33.5165351,
+        "Longitude": -112.1588356,
+        "Rating": 3.7,
+        "Review_Count": 28
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center At Grand Ave & Bell Rd",
+        "Type": "Trailer Dealers",
+        "Address": "13438 W Bell Rd, Surprise, AZ 85378",
+        "Latitude": 33.6391149,
+        "Longitude": -112.3486416,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Arizona Hitchman Auto Tint & Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5568 W Bell Rd, Ste 200, Glendale, AZ 85308",
+        "Latitude": 33.63931196839411,
+        "Longitude": -112.1794183,
+        "Rating": 2.6,
+        "Review_Count": 56
+    },
+    {
+        "Name": "Rucker Trailer Works",
+        "Type": "Trailer Repair",
+        "Address": "224 S Macdonald, Mesa, AZ 85210",
+        "Latitude": 33.410255,
+        "Longitude": -111.834398,
+        "Rating": 5.0,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Rack Attack Phoenix",
+        "Type": "Outdoor Gear",
+        "Address": "15420 N 32nd St, Unit 1, Phoenix, AZ 85032",
+        "Latitude": 33.62704295050086,
+        "Longitude": -112.01424978839913,
+        "Rating": 4.3,
+        "Review_Count": 6
+    },
+    {
+        "Name": "Quality Bumper - Peoria",
+        "Type": "Auto Parts & Supplies",
+        "Address": "8736 W Thunderbird Rd, Peoria, AZ 85381",
+        "Latitude": 33.6100549,
+        "Longitude": -112.2472299,
+        "Rating": 3.5,
+        "Review_Count": 43
+    },
+    {
+        "Name": "Silver Bullet RV Repair",
+        "Type": "RV Repair",
+        "Address": "Phoenix, AZ 85024",
+        "Latitude": 33.73546590079157,
+        "Longitude": -112.03346323614136,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Bills Mobile Hitch and Towbar Installation",
+        "Type": "RV Repair",
+        "Address": "5993 W Topeka Dr, Glendale, AZ 85308",
+        "Latitude": 33.658242,
+        "Longitude": -112.188762,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Moving & Storage",
+        "Type": "Self Storage",
+        "Address": "20618 N Cave Creek Rd, Phoenix, AZ 85024",
+        "Latitude": 33.673474,
+        "Longitude": -112.031938,
+        "Rating": 3.0,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Quality Bumper - Phoenix",
+        "Type": "Auto Repair",
+        "Address": "1210 Grand Ave, Phoenix, AZ 85007",
+        "Latitude": 33.45649,
+        "Longitude": -112.08825,
+        "Rating": 4.2,
+        "Review_Count": 26
+    },
+    {
+        "Name": "Bell Road RV Center",
+        "Type": "RV Repair",
+        "Address": "2727 E Bell Road, Phoenix, AZ 85032",
+        "Latitude": 33.63999,
+        "Longitude": -112.02305,
+        "Rating": 3.6,
+        "Review_Count": 46
+    },
+    {
+        "Name": "Quality Bumper - Mesa",
+        "Type": "Auto Glass Services",
+        "Address": "1023 S Gilbert Rd, Mesa, AZ 85204",
+        "Latitude": 33.3968339,
+        "Longitude": -111.7881051,
+        "Rating": 3.9,
+        "Review_Count": 38
+    },
+    {
+        "Name": "Fish's Hitches & Rentals",
+        "Type": "Truck Rental",
+        "Address": "12225 S Gilbert Rd, Gilbert, AZ 85296",
+        "Latitude": 33.3366622,
+        "Longitude": -111.78953061833626,
+        "Rating": 3.8,
+        "Review_Count": 12
+    },
+    {
+        "Name": "U-Haul - Phoenix",
+        "Type": "Self Storage",
+        "Address": "1935 W Bell Rd, Phoenix, AZ 85023",
+        "Latitude": 33.639718,
+        "Longitude": -112.101036,
+        "Rating": 2.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "JacksSons Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "3054 E Main St, Mesa, AZ 85213",
+        "Latitude": 33.416060212227244,
+        "Longitude": -111.76499700362808,
+        "Rating": 4.3,
+        "Review_Count": 39
+    },
+    {
+        "Name": "10 & Two RV And Trailer services",
+        "Type": "RV Repair",
+        "Address": "Glendale, AZ 85301",
+        "Latitude": 33.53176663383758,
+        "Longitude": -112.1779887443314,
+        "Rating": 3.3,
+        "Review_Count": 7
+    },
+    {
+        "Name": "The RV Guy Mobile RV Repair",
+        "Type": "RV Repair",
+        "Address": "Glendale, AZ 85304",
+        "Latitude": 33.59669,
+        "Longitude": -112.16666,
+        "Rating": 4.5,
+        "Review_Count": 49
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Shadow Mountain",
+        "Type": "Self Storage",
+        "Address": "16226 N 32nd St, Phoenix, AZ 85032",
+        "Latitude": 33.6348289427909,
+        "Longitude": -112.01363520429,
+        "Rating": 3.2,
+        "Review_Count": 23
+    },
+    {
+        "Name": "Spectrac Suspension Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "405 E Baseline Rd, Gilbert, AZ 85233",
+        "Latitude": 33.37834,
+        "Longitude": -111.82238,
+        "Rating": 4.6,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Orangewood RV Center",
+        "Type": "RV Dealers",
+        "Address": "11405 W Bell Rd, Surprise, AZ 85374",
+        "Latitude": 33.63822,
+        "Longitude": -112.30568,
+        "Rating": 2.3,
+        "Review_Count": 106
+    },
+    {
+        "Name": "U-Haul of Arcadia",
+        "Type": "Truck Rental",
+        "Address": "4007 E Camelback Rd, Phoenix, AZ 85018",
+        "Latitude": 33.509357,
+        "Longitude": -111.994948,
+        "Rating": 4.1,
+        "Review_Count": 18
+    },
+    {
+        "Name": "Driven Auto Accessories",
+        "Type": "Auto Customization",
+        "Address": "7849 E State Rte 69, Prescott Valley, AZ 86314",
+        "Latitude": 34.5850803931139,
+        "Longitude": -112.327958864886,
+        "Rating": 3.8,
+        "Review_Count": 14
+    },
+    {
+        "Name": "Little Dealer-Little Prices",
+        "Type": "RV Dealers",
+        "Address": "2350 W Deer Valley Rd, Phoenix, AZ 85027",
+        "Latitude": 33.6846654,
+        "Longitude": -112.109697,
+        "Rating": 3.4,
+        "Review_Count": 389
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center",
+        "Type": "Trailer Dealers",
+        "Address": "20614 N Cave Creek Rd, Phoenix, AZ 85024",
+        "Latitude": 33.67333,
+        "Longitude": -112.0311349,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Phoenix",
+        "Type": "Truck Rental",
+        "Address": "21621 N 26th Ave, Phoenix, AZ 85027",
+        "Latitude": 33.6823037716721,
+        "Longitude": -112.114149,
+        "Rating": 3.0,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Rowley White",
+        "Type": "RV Dealers",
+        "Address": "8102 E Main St, Mesa, AZ 85207",
+        "Latitude": 33.416042,
+        "Longitude": -111.656319,
+        "Rating": 4.5,
+        "Review_Count": 52
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Arrowhead Towne Center",
+        "Type": "Self Storage",
+        "Address": "8746 W Bell Rd, Peoria, AZ 85382",
+        "Latitude": 33.63872,
+        "Longitude": -112.2475,
+        "Rating": 2.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Little Dealer Little Prices",
+        "Type": "RV Dealers",
+        "Address": "2038 N Country Club Dr, Mesa, AZ 85201",
+        "Latitude": 33.45235851251449,
+        "Longitude": -111.8401382943686,
+        "Rating": 3.2,
+        "Review_Count": 376
+    },
+    {
+        "Name": "On The Road Again RV Service",
+        "Type": "RV Repair",
+        "Address": "15044 E Montgomery Rd, Scottsdale, AZ 85262",
+        "Latitude": 33.764647,
+        "Longitude": -111.755054,
+        "Rating": 3.0,
+        "Review_Count": 54
+    },
+    {
+        "Name": "Tom's Camperland - Mesa",
+        "Type": "RV Dealers",
+        "Address": "1301 W Broadway Rd, Mesa, AZ 85202",
+        "Latitude": 33.40721209364082,
+        "Longitude": -111.85854473137653,
+        "Rating": 3.5,
+        "Review_Count": 142
+    },
+    {
+        "Name": "U-Haul Moving & Storage of North Scottsdale",
+        "Type": "Self Storage",
+        "Address": "15455 N 84th St, Scottsdale, AZ 85260",
+        "Latitude": 33.62629,
+        "Longitude": -111.8992,
+        "Rating": 2.5,
+        "Review_Count": 107
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Sun City West",
+        "Type": "Self Storage",
+        "Address": "13420 W Bell Rd, Ste 100, Surprise, AZ 85378",
+        "Latitude": 33.63896064167752,
+        "Longitude": -112.34761513723682,
+        "Rating": 2.3,
+        "Review_Count": 57
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Litchfield Park",
+        "Type": "Truck Rental",
+        "Address": "16835 W Northern Ave, Litchfield Park, AZ 85340",
+        "Latitude": 33.5494142633183,
+        "Longitude": -112.422627512473,
+        "Rating": 3.2,
+        "Review_Count": 23
+    },
+    {
+        "Name": "Sun City RV",
+        "Type": "RV Dealers",
+        "Address": "9045 W Grand Ave, Peoria, AZ 85345",
+        "Latitude": 33.5920279262128,
+        "Longitude": -112.254723474869,
+        "Rating": 2.7,
+        "Review_Count": 47
+    },
+    {
+        "Name": "World Wide RV",
+        "Type": "RV Dealers",
+        "Address": "4660 E Main St, Mesa, AZ 85205",
+        "Latitude": 33.416551,
+        "Longitude": -111.729816,
+        "Rating": 2.2,
+        "Review_Count": 87
+    },
+    {
+        "Name": "U-Haul Moving And Storage ",
+        "Type": "Truck Rental",
+        "Address": "2340 E Apache Blvd, Tempe, AZ 85281",
+        "Latitude": 33.4150431990462,
+        "Longitude": -111.887776961132,
+        "Rating": 3.5,
+        "Review_Count": 15
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "12225 S Gilbert Rd, Gilbert, AZ 85296",
+        "Latitude": 33.33664253312566,
+        "Longitude": -111.78966311177848,
+        "Rating": 3.8,
+        "Review_Count": 6
+    },
+    {
+        "Name": "U-Haul at Elliot Rd",
+        "Type": "Truck Rental",
+        "Address": "8162 S Priest Dr, Tempe, AZ 85284",
+        "Latitude": 33.342336,
+        "Longitude": -111.969143,
+        "Rating": 3.2,
+        "Review_Count": 27
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "4950 E McDowell Rd, Phoenix, AZ 85008",
+        "Latitude": 33.465778,
+        "Longitude": -111.974058,
+        "Rating": 4.2,
+        "Review_Count": 13
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Glendale",
+        "Type": "Truck Rental",
+        "Address": "6544 W Bell Rd, Glendale, AZ 85308",
+        "Latitude": 33.6385642386206,
+        "Longitude": -112.200908289549,
+        "Rating": 2.8,
+        "Review_Count": 40
+    },
+    {
+        "Name": "Sierra Expeditions",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2534 W Broadway Rd, Ste 6, Mesa, AZ 85202",
+        "Latitude": 33.407846,
+        "Longitude": -111.886464,
+        "Rating": 4.8,
+        "Review_Count": 16
+    },
+    {
+        "Name": "Rowley White RV",
+        "Type": "RV Repair",
+        "Address": "2825 W Mcdowell Rd, Phoenix, AZ 85009",
+        "Latitude": 33.46540265672693,
+        "Longitude": -112.1202469,
+        "Rating": 4.7,
+        "Review_Count": 20
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "3846 E Thunderbird Rd, Phoenix, AZ 85032",
+        "Latitude": 33.613349544687196,
+        "Longitude": -111.99712386931311,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul - Chandler",
+        "Type": "Self Storage",
+        "Address": "6190 W Chandler Blvd, Chandler, AZ 85226",
+        "Latitude": 33.305698,
+        "Longitude": -111.949792,
+        "Rating": 2.8,
+        "Review_Count": 40
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Downtown Chandler",
+        "Type": "Self Storage",
+        "Address": "1375 N Arizona Ave, Chandler, AZ 85225",
+        "Latitude": 33.327223,
+        "Longitude": -111.841441,
+        "Rating": 2.5,
+        "Review_Count": 41
+    },
+    {
+        "Name": "TrailersPlus - Phoenix",
+        "Type": "Trailer Dealers",
+        "Address": "3333 W Indian School Rd, Phoenix, AZ 85017",
+        "Latitude": 33.4941,
+        "Longitude": -112.13191,
+        "Rating": 2.7,
+        "Review_Count": 31
+    },
+    {
+        "Name": "The Hitch Man",
+        "Type": "Trailer Dealers",
+        "Address": "820 Conchester Hwy, Boothwyn, PA 19061",
+        "Latitude": 39.8516358364814,
+        "Longitude": -75.4613370619984,
+        "Rating": 4.3,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Miller's Auto & Truck Accessories",
+        "Type": "Car Stereo Installation",
+        "Address": "285 Bethlehem Pike, Ste 120, Colmar, PA 18915",
+        "Latitude": 40.2748981,
+        "Longitude": -75.2583882,
+        "Rating": 5.0,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Franklin Trailers",
+        "Type": "N/A",
+        "Address": "1016 S White Horse Pike, Somerdale, NJ 08083",
+        "Latitude": 39.83648,
+        "Longitude": -75.0079499,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Delaware Truck Refinishers",
+        "Type": "Body Shops",
+        "Address": "3039 Bowlarama Dr, New Castle, DE 19720",
+        "Latitude": 39.70163412694466,
+        "Longitude": -75.55455959999999,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul of University City",
+        "Type": "Self Storage",
+        "Address": "4857 Chestnut St, Philadelphia, PA 19139",
+        "Latitude": 39.9578067,
+        "Longitude": -75.2186224,
+        "Rating": 2.0,
+        "Review_Count": 46
+    },
+    {
+        "Name": "Wright's Truck Accessories & Equipment",
+        "Type": "Auto Parts & Supplies",
+        "Address": "525 Parkway Dr, Broomall, PA 19008",
+        "Latitude": 39.961032,
+        "Longitude": -75.340307,
+        "Rating": 3.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Stoltzfus RV's and Marine",
+        "Type": "RV Dealers",
+        "Address": "1335 Wilmington Pike, West Chester, PA 19382",
+        "Latitude": 39.904463,
+        "Longitude": -75.565745,
+        "Rating": 3.4,
+        "Review_Count": 40
+    },
+    {
+        "Name": "Imagine Audio",
+        "Type": "Car Stereo Installation",
+        "Address": "304 Haddonfield Rd, Cherry Hill, NJ 08002",
+        "Latitude": 39.9434,
+        "Longitude": -75.02938,
+        "Rating": 4.6,
+        "Review_Count": 65
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Roxborough",
+        "Type": "Self Storage",
+        "Address": "8300 Ridge Ave, Philadelphia, PA 19128",
+        "Latitude": 40.060026,
+        "Longitude": -75.238514,
+        "Rating": 1.5,
+        "Review_Count": 20
+    },
+    {
+        "Name": "Fretz RV",
+        "Type": "RV Dealers",
+        "Address": "3479 Bethlehem Pike, Souderton, PA 18964",
+        "Latitude": 40.31836,
+        "Longitude": -75.30293,
+        "Rating": 2.6,
+        "Review_Count": 81
+    },
+    {
+        "Name": "U-Haul - Langhorne",
+        "Type": "Self Storage",
+        "Address": "662 E Lincoln Hwy, Langhorne, PA 19047",
+        "Latitude": 40.1642130047274,
+        "Longitude": -74.9038573045962,
+        "Rating": 2.7,
+        "Review_Count": 7
+    },
+    {
+        "Name": "Reedman Toll Auto World",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1700 E Lincoln Hwy, Langhorne, PA 19047",
+        "Latitude": 40.1727,
+        "Longitude": -74.890621,
+        "Rating": 1.8,
+        "Review_Count": 263
+    },
+    {
+        "Name": "White Horse RV Center",
+        "Type": "RV Dealers",
+        "Address": "980 N Black Horse Pike, Williamstown, NJ 08094",
+        "Latitude": 39.698,
+        "Longitude": -75.0005,
+        "Rating": 2.3,
+        "Review_Count": 23
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "602 Heron Dr, Swedesboro, NJ 08085",
+        "Latitude": 39.76790894,
+        "Longitude": -75.35448181,
+        "Rating": 2.1,
+        "Review_Count": 70
+    },
+    {
+        "Name": "Sloane Toyota of Philadelphia",
+        "Type": "Car Dealers",
+        "Address": "1546 Cottman Ave, Philadelphia, PA 19111",
+        "Latitude": 40.0549019312175,
+        "Longitude": -75.07524531840265,
+        "Rating": 1.9,
+        "Review_Count": 87
+    },
+    {
+        "Name": "U-Haul of Havertown",
+        "Type": "Self Storage",
+        "Address": "2 Township Line Rd, Havertown, PA 19083",
+        "Latitude": 39.968703,
+        "Longitude": -75.294309,
+        "Rating": 1.9,
+        "Review_Count": 28
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Feasterville",
+        "Type": "Self Storage",
+        "Address": "333 W Street Rd, Feasterville, PA 19053",
+        "Latitude": 40.1557983,
+        "Longitude": -75.0103447,
+        "Rating": 1.7,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul of Somerdale",
+        "Type": "Truck Rental",
+        "Address": "411 White Horse Pike, Somerdale, NJ 08083",
+        "Latitude": 39.849214045563464,
+        "Longitude": -75.02261797390574,
+        "Rating": 1.6,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Norristown",
+        "Type": "Self Storage",
+        "Address": "1305 W Main St, Norristown, PA 19401",
+        "Latitude": 40.123109,
+        "Longitude": -75.36094,
+        "Rating": 2.0,
+        "Review_Count": 29
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Wilmington",
+        "Type": "Self Storage",
+        "Address": "2920 Governor Printz Blvd, Wilmington, DE 19802",
+        "Latitude": 39.751645,
+        "Longitude": -75.525298526135,
+        "Rating": 2.3,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul Moving & Storage of West Oak Lane",
+        "Type": "Self Storage",
+        "Address": "7400 Ogontz Ave, Philadelphia, PA 19138",
+        "Latitude": 40.06741,
+        "Longitude": -75.15704,
+        "Rating": 2.0,
+        "Review_Count": 8
+    },
+    {
+        "Name": "Discount Trailer Warehouse",
+        "Type": "Trailer Dealers",
+        "Address": "1946 N Black Horse Pike, Williamstown, NJ 08094",
+        "Latitude": 39.7143135070801,
+        "Longitude": -75.0166931152344,
+        "Rating": 2.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Cinnaminson",
+        "Type": "Self Storage",
+        "Address": "2101 US Hwy 130 S, Cinnaminson, NJ 08077",
+        "Latitude": 40.0047063457518,
+        "Longitude": -74.9803885981476,
+        "Rating": 2.3,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Hitch RV",
+        "Type": "RV Dealers",
+        "Address": "127 North Route 73, Berlin, NJ 08009",
+        "Latitude": 39.7271141,
+        "Longitude": -74.9051789645264,
+        "Rating": 1.5,
+        "Review_Count": 61
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "3040 Mount Carmel Ave, Glenside, PA 19038",
+        "Latitude": 40.1131944,
+        "Longitude": -75.1707122,
+        "Rating": 2.5,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Malvern",
+        "Type": "Self Storage",
+        "Address": "564 Lancaster Pike, Malvern, PA 19355",
+        "Latitude": 40.03462,
+        "Longitude": -75.57081,
+        "Rating": 1.8,
+        "Review_Count": 20
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Roosevelt Blvd",
+        "Type": "Self Storage",
+        "Address": "7750 Roosevelt Blvd, Philadelphia, PA 19152",
+        "Latitude": 40.052833431058,
+        "Longitude": -75.0511139973303,
+        "Rating": 1.7,
+        "Review_Count": 19
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Horsham",
+        "Type": "Self Storage",
+        "Address": "1418 Easton Rd, Horsham, PA 19044",
+        "Latitude": 40.208308,
+        "Longitude": -75.139449,
+        "Rating": 2.1,
+        "Review_Count": 21
+    },
+    {
+        "Name": "City Auto Park",
+        "Type": "Car Dealers",
+        "Address": "4395 Rt 130 S, Burlington Township, NJ 08016",
+        "Latitude": 40.057228,
+        "Longitude": -74.88974,
+        "Rating": 2.0,
+        "Review_Count": 20
+    },
+    {
+        "Name": "Rv Value Mart",
+        "Type": "RV Dealers",
+        "Address": "3152 Lebanon Rd, Manheim, PA 17545",
+        "Latitude": 40.2376428488027,
+        "Longitude": -76.43827689999999,
+        "Rating": 2.3,
+        "Review_Count": 31
+    },
+    {
+        "Name": "Nissan 422 of Limerick",
+        "Type": "Auto Repair",
+        "Address": "55 Autopark Blvd, Royersford, PA 19468",
+        "Latitude": 40.217462,
+        "Longitude": -75.548337,
+        "Rating": 1.8,
+        "Review_Count": 44
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Levittown",
+        "Type": "Self Storage",
+        "Address": "6250 Bristol Pike, Levittown, PA 19057",
+        "Latitude": 40.121651,
+        "Longitude": -74.840472,
+        "Rating": 2.5,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Texas Hitch & Truck Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3940 N Pan Am Expy, San Antonio, TX 78219",
+        "Latitude": 29.4516025,
+        "Longitude": -98.4175591,
+        "Rating": 4.5,
+        "Review_Count": 32
+    },
+    {
+        "Name": "Dealer Source",
+        "Type": "Auto Upholstery",
+        "Address": "11927 Warfield St, San Antonio, TX 78216",
+        "Latitude": 29.5511736862547,
+        "Longitude": -98.4930698733693,
+        "Rating": 4.5,
+        "Review_Count": 18
+    },
+    {
+        "Name": "OTG Automotive",
+        "Type": "Auto Customization",
+        "Address": "15444 Tradesman Dr, San Antonio, TX 78249",
+        "Latitude": 29.58879089127146,
+        "Longitude": -98.58549073265,
+        "Rating": 3.7,
+        "Review_Count": 12
+    },
+    {
+        "Name": "U-Haul Of Ingram Park",
+        "Type": "Truck Rental",
+        "Address": "5786 NW Loop 410, San Antonio, TX 78238",
+        "Latitude": 29.48027,
+        "Longitude": -98.603718,
+        "Rating": 3.9,
+        "Review_Count": 8
+    },
+    {
+        "Name": "ExploreUSA RV Supercenter San Antonio",
+        "Type": "RV Dealers",
+        "Address": "8615 W Hwy 90, San Antonio, TX 78227",
+        "Latitude": 29.395827,
+        "Longitude": -98.657222,
+        "Rating": 2.1,
+        "Review_Count": 13
+    },
+    {
+        "Name": "TCs Trailer and Offroad Customs",
+        "Type": "Trailer Repair",
+        "Address": "San Antonio, TX 78217",
+        "Latitude": 29.54044306637392,
+        "Longitude": -98.42007595132924,
+        "Rating": 3.5,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Affordable Trailers",
+        "Type": "Auto Parts & Supplies",
+        "Address": "8989 E US Hwy 87, San Antonio, TX 78263",
+        "Latitude": 29.380146,
+        "Longitude": -98.311423,
+        "Rating": 3.7,
+        "Review_Count": 6
+    },
+    {
+        "Name": "BlackJack Speed Shop",
+        "Type": "Auto Repair",
+        "Address": "9617 Huebner Rd, San Antonio, TX 78240",
+        "Latitude": 29.532233028941462,
+        "Longitude": -98.59205972514144,
+        "Rating": 3.6,
+        "Review_Count": 31
+    },
+    {
+        "Name": "Aggressive Outfitters",
+        "Type": "Auto Customization",
+        "Address": "13930 Fm 1560 N, Helotes, TX 78023",
+        "Latitude": 29.56951,
+        "Longitude": -98.658318,
+        "Rating": 3.4,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul - New Braunfels",
+        "Type": "Truck Rental",
+        "Address": "920 IH 35 S, New Braunfels, TX 78130",
+        "Latitude": 29.687143273463796,
+        "Longitude": -98.1237267,
+        "Rating": 2.7,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "6414 San Pedro Ave, San Antonio, TX 78216",
+        "Latitude": 29.4956970214844,
+        "Longitude": -98.4981079101562,
+        "Rating": 2.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage at San Pedro",
+        "Type": "Self Storage",
+        "Address": "5810 San Pedro Ave, San Antonio, TX 78212",
+        "Latitude": 29.487554,
+        "Longitude": -98.49892,
+        "Rating": 2.3,
+        "Review_Count": 36
+    },
+    {
+        "Name": "Southwest Companies",
+        "Type": "RV Repair",
+        "Address": "343 Gembler Rd, San Antonio, TX 78219",
+        "Latitude": 29.43654,
+        "Longitude": -98.42762,
+        "Rating": 2.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "U-Haul - San Antonio",
+        "Type": "Self Storage",
+        "Address": "4502 Rigsby Ave, San Antonio, TX 78222",
+        "Latitude": 29.3981551,
+        "Longitude": -98.4039366,
+        "Rating": 3.0,
+        "Review_Count": 5
+    },
+    {
+        "Name": "U-Haul Moving & Storage At Austin Hwy",
+        "Type": "Self Storage",
+        "Address": "2390 Austin Hwy, San Antonio, TX 78218",
+        "Latitude": 29.508491,
+        "Longitude": -98.409131,
+        "Rating": 2.8,
+        "Review_Count": 22
+    },
+    {
+        "Name": "Blue Compass RV Boerne",
+        "Type": "RV Dealers",
+        "Address": "28970 Interstate 10 W, Boerne, TX 78006",
+        "Latitude": 29.728071,
+        "Longitude": -98.674723,
+        "Rating": 2.4,
+        "Review_Count": 36
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Grissom Rd",
+        "Type": "Self Storage",
+        "Address": "5420 Grissom Rd 215, San Antonio, TX 78238",
+        "Latitude": 29.48291512748462,
+        "Longitude": -98.62852397384792,
+        "Rating": 1.9,
+        "Review_Count": 37
+    },
+    {
+        "Name": "San Diego Trailer Supply",
+        "Type": "Trailer Dealers",
+        "Address": "6881 El Cajon Blvd, San Diego, CA 92115",
+        "Latitude": 32.76841333,
+        "Longitude": -117.04964167,
+        "Rating": 4.7,
+        "Review_Count": 158
+    },
+    {
+        "Name": "SoCal Truck Accessories & Equipment",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10460 Mission Gorge Rd, Santee, CA 92071",
+        "Latitude": 32.83854,
+        "Longitude": -116.9695611,
+        "Rating": 4.3,
+        "Review_Count": 101
+    },
+    {
+        "Name": "Warner's Muffler & Hitches",
+        "Type": "Auto Repair",
+        "Address": "190 Douglas Dr, Oceanside, CA 92058",
+        "Latitude": 33.23088,
+        "Longitude": -117.325337,
+        "Rating": 4.8,
+        "Review_Count": 189
+    },
+    {
+        "Name": "1 Trailerman Mobile Trailer Rv & Marine Trailer Service on Wheel",
+        "Type": "Trailer Repair",
+        "Address": "Thomas Paine Dr, Ramona , CA 92065",
+        "Latitude": 33.00301559647799,
+        "Longitude": -116.9274473,
+        "Rating": 5.0,
+        "Review_Count": 16
+    },
+    {
+        "Name": "Little Guy Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "7915 Balboa Ave, Ste A, San Diego, CA 92111",
+        "Latitude": 32.82936676542441,
+        "Longitude": -117.14782756810553,
+        "Rating": 4.1,
+        "Review_Count": 53
+    },
+    {
+        "Name": "Rack N Road",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1995 Harbor Blvd, Ste A, Costa Mesa, CA 92627",
+        "Latitude": 33.64689,
+        "Longitude": -117.91977,
+        "Rating": 4.6,
+        "Review_Count": 351
+    },
+    {
+        "Name": "Express Performance Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "8711 Magnolia Ave, Santee, CA 92071",
+        "Latitude": 32.833738,
+        "Longitude": -116.963848,
+        "Rating": 4.1,
+        "Review_Count": 66
+    },
+    {
+        "Name": "Off Road Warehouse",
+        "Type": "Tires",
+        "Address": "5555 Kearny Villa Rd, San Diego, CA 92123",
+        "Latitude": 32.8348648,
+        "Longitude": -117.1371834,
+        "Rating": 3.4,
+        "Review_Count": 158
+    },
+    {
+        "Name": "East County Trailer Repair",
+        "Type": "Trailer Repair",
+        "Address": "340 Coogan Way, El Cajon, CA 92020",
+        "Latitude": 32.8105882,
+        "Longitude": -116.9647828,
+        "Rating": 4.7,
+        "Review_Count": 27
+    },
+    {
+        "Name": "Tommy's Custom Coach Works",
+        "Type": "RV Repair",
+        "Address": "3048 Moore St, San Diego, CA 92110",
+        "Latitude": 32.7544955,
+        "Longitude": -117.2034075,
+        "Rating": 4.3,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "13530 Pomerado Rd, Ste C, Poway, CA 92064",
+        "Latitude": 32.9605828413075,
+        "Longitude": -117.0633644,
+        "Rating": 4.7,
+        "Review_Count": 208
+    },
+    {
+        "Name": "Discount Battery and Auto Electric",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3203 Fairmount Ave, San Diego, CA 92105",
+        "Latitude": 32.7393913269043,
+        "Longitude": -117.100662231445,
+        "Rating": 4.9,
+        "Review_Count": 92
+    },
+    {
+        "Name": "South Coast RV",
+        "Type": "RV Dealers",
+        "Address": "801 Broadway, Chula Vista, CA 91911",
+        "Latitude": 32.62032,
+        "Longitude": -117.08451,
+        "Rating": 3.9,
+        "Review_Count": 53
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Point Loma",
+        "Type": "Self Storage",
+        "Address": "3820 Midway Dr, San Diego, CA 92110",
+        "Latitude": 32.754118,
+        "Longitude": -117.217906,
+        "Rating": 2.6,
+        "Review_Count": 102
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Chula Vista",
+        "Type": "Self Storage",
+        "Address": "99 N 4th Av, Chula Vista, CA 91910",
+        "Latitude": 32.653438,
+        "Longitude": -117.08850494029824,
+        "Rating": 3.3,
+        "Review_Count": 47
+    },
+    {
+        "Name": "RV Trailer Supply",
+        "Type": "Appliances & Repair",
+        "Address": "1186 Broadway, El Cajon, CA 92021",
+        "Latitude": 32.80829,
+        "Longitude": -116.94087,
+        "Rating": 4.2,
+        "Review_Count": 35
+    },
+    {
+        "Name": "Off Road Warehouse",
+        "Type": "Tires",
+        "Address": "425 N Marshall Ave, El Cajon, CA 92020",
+        "Latitude": 32.79956,
+        "Longitude": -116.97506,
+        "Rating": 3.0,
+        "Review_Count": 77
+    },
+    {
+        "Name": "County RV Service Center",
+        "Type": "RV Repair",
+        "Address": "10229 Prospect Ave, Santee, CA 92071",
+        "Latitude": 32.83092261931382,
+        "Longitude": -116.974959,
+        "Rating": 4.7,
+        "Review_Count": 68
+    },
+    {
+        "Name": "West Coast Specialties",
+        "Type": "Body Shops",
+        "Address": "7686 Formula Pl, San Diego, CA 92121",
+        "Latitude": 32.888319,
+        "Longitude": -117.156549,
+        "Rating": 4.6,
+        "Review_Count": 85
+    },
+    {
+        "Name": "Rack Attack - San Diego",
+        "Type": "Outdoor Gear",
+        "Address": "2803 Midway Dr, San Diego, CA 92110",
+        "Latitude": 32.748017,
+        "Longitude": -117.203966,
+        "Rating": 3.3,
+        "Review_Count": 10
+    },
+    {
+        "Name": "Best RV Tech",
+        "Type": "RV Repair",
+        "Address": "Yuma, AZ",
+        "Latitude": 32.68549,
+        "Longitude": -114.62461,
+        "Rating": 4.8,
+        "Review_Count": 53
+    },
+    {
+        "Name": "U-Haul - San Diego",
+        "Type": "Self Storage",
+        "Address": "9650 Camino Ruiz, San Diego, CA 92126",
+        "Latitude": 32.895926,
+        "Longitude": -117.136847,
+        "Rating": 2.6,
+        "Review_Count": 82
+    },
+    {
+        "Name": "U-Haul of City Heights",
+        "Type": "Truck Rental",
+        "Address": "4311 El Cajon Bl, San Diego, CA 92105",
+        "Latitude": 32.75489,
+        "Longitude": -117.10159,
+        "Rating": 2.9,
+        "Review_Count": 97
+    },
+    {
+        "Name": "The RV Repair Guy",
+        "Type": "RV Repair",
+        "Address": "San Clemente, CA 92672",
+        "Latitude": 33.42303,
+        "Longitude": -117.60497,
+        "Rating": 4.9,
+        "Review_Count": 66
+    },
+    {
+        "Name": "Henrys Trailer Repair and Mobile Services",
+        "Type": "Trailer Dealers",
+        "Address": "1486 Chase Ave, El Cajon, CA 92020",
+        "Latitude": 32.773771,
+        "Longitude": -116.940759,
+        "Rating": 4.3,
+        "Review_Count": 49
+    },
+    {
+        "Name": "Rick's RV Center",
+        "Type": "Auto Repair",
+        "Address": "1546 E Main St, El Cajon, CA 92021",
+        "Latitude": 32.8057390451431,
+        "Longitude": -116.924738287926,
+        "Rating": 3.8,
+        "Review_Count": 104
+    },
+    {
+        "Name": "U-Haul Moving & Storage of El Cajon",
+        "Type": "Self Storage",
+        "Address": "1186 E Main, El Cajon, CA 92021",
+        "Latitude": 32.795469,
+        "Longitude": -116.941957,
+        "Rating": 2.4,
+        "Review_Count": 54
+    },
+    {
+        "Name": "DI Motorsports",
+        "Type": "Tires",
+        "Address": "9040 Carroll Way, Ste 3, San Diego, CA 92121",
+        "Latitude": 32.88799316750587,
+        "Longitude": -117.15941155563443,
+        "Rating": 5.0,
+        "Review_Count": 78
+    },
+    {
+        "Name": "Pacific Honda",
+        "Type": "Auto Repair",
+        "Address": "4761 Convoy St, San Diego, CA 92111",
+        "Latitude": 32.8270607,
+        "Longitude": -117.1535432,
+        "Rating": 3.4,
+        "Review_Count": 1851
+    },
+    {
+        "Name": "TrailersPlus - Lakeside",
+        "Type": "Trailer Dealers",
+        "Address": "12024 Woodside Ave, Lakeside, CA 92040",
+        "Latitude": 32.8559613769268,
+        "Longitude": -116.933830620255,
+        "Rating": 3.1,
+        "Review_Count": 48
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Clairemont Mesa",
+        "Type": "Truck Rental",
+        "Address": "5871 Copley Dr, San Diego, CA 92111",
+        "Latitude": 32.84383146336478,
+        "Longitude": -117.17118404110651,
+        "Rating": 3.1,
+        "Review_Count": 64
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "120 E Lincoln Av Unit B, Escondido, CA 92025",
+        "Latitude": 33.1341803151857,
+        "Longitude": -117.08615605582,
+        "Rating": 4.3,
+        "Review_Count": 15
+    },
+    {
+        "Name": "FE Trailers",
+        "Type": "Auto Parts & Supplies",
+        "Address": "11919 Woodside Ave, Lakeside, CA 92040",
+        "Latitude": 32.855174,
+        "Longitude": -116.936413,
+        "Rating": 4.3,
+        "Review_Count": 33
+    },
+    {
+        "Name": "U-Haul Moving & Storage of National City",
+        "Type": "Truck Rental",
+        "Address": "1300 Wilson Ave, National City, CA 91950",
+        "Latitude": 32.6696,
+        "Longitude": -117.11033,
+        "Rating": 3.2,
+        "Review_Count": 51
+    },
+    {
+        "Name": "Trick Trucks - El Cajon",
+        "Type": "Auto Repair",
+        "Address": "777 N 2nd St, El Cajon, CA 92021",
+        "Latitude": 32.8047,
+        "Longitude": -116.93529,
+        "Rating": 4.4,
+        "Review_Count": 67
+    },
+    {
+        "Name": "U-Haul - Escondido",
+        "Type": "Self Storage",
+        "Address": "950 W Mission Ave, Escondido, CA 92025",
+        "Latitude": 33.1266304,
+        "Longitude": -117.0995417,
+        "Rating": 2.8,
+        "Review_Count": 91
+    },
+    {
+        "Name": "U-Haul - Poway",
+        "Type": "Self Storage",
+        "Address": "13210 Poway Rd, Poway, CA 92064",
+        "Latitude": 32.956651277156865,
+        "Longitude": -117.0444479506213,
+        "Rating": 2.4,
+        "Review_Count": 71
+    },
+    {
+        "Name": "La Mesa RV",
+        "Type": "RV Dealers",
+        "Address": "7430 Copley Pk Pl, San Diego, CA 92111",
+        "Latitude": 32.83673610360599,
+        "Longitude": -117.15864465653245,
+        "Rating": 2.8,
+        "Review_Count": 327
+    },
+    {
+        "Name": "Premier Chevrolet of Carlsbad",
+        "Type": "Car Dealers",
+        "Address": "5335 Paseo Del Norte, Carlsbad, CA 92008",
+        "Latitude": 33.133975119841054,
+        "Longitude": -117.32704206132264,
+        "Rating": 3.7,
+        "Review_Count": 579
+    },
+    {
+        "Name": "Southwest Trailer Sales",
+        "Type": "RV Repair",
+        "Address": "2430 Main St, Ramona, CA 92065",
+        "Latitude": 33.026127,
+        "Longitude": -116.890777,
+        "Rating": 4.0,
+        "Review_Count": 63
+    },
+    {
+        "Name": "Stereo Depot",
+        "Type": "Car Stereo Installation",
+        "Address": "1149 Broadway, El Cajon, CA 92021",
+        "Latitude": 32.80749046,
+        "Longitude": -116.94228042,
+        "Rating": 4.1,
+        "Review_Count": 351
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "1637 E Valley Pkwy, Escondido, CA 92027",
+        "Latitude": 33.1340975678448,
+        "Longitude": -117.058740225934,
+        "Rating": 1.5,
+        "Review_Count": 2
+    },
+    {
+        "Name": "San Diego Chrysler Dodge Jeep Ram",
+        "Type": "Car Dealers",
+        "Address": "777 Camino Del Rio S, San Diego, CA 92108",
+        "Latitude": 32.763401,
+        "Longitude": -117.157604,
+        "Rating": 2.7,
+        "Review_Count": 836
+    },
+    {
+        "Name": "CID Rhino Linings of El Cajon",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1309 Magnolia Ave, El Cajon, CA 92020",
+        "Latitude": 32.8137206,
+        "Longitude": -116.96212537718766,
+        "Rating": 4.1,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "Lemon Grove, Lemon Grove, CA",
+        "Latitude": 32.7243287863131,
+        "Longitude": -117.039470784366,
+        "Rating": 3.1,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lemon Grove",
+        "Type": "Self Storage",
+        "Address": "1805 Massachusetts Ave, Lemon Grove, CA 91945",
+        "Latitude": 32.72535,
+        "Longitude": -117.039263,
+        "Rating": 2.6,
+        "Review_Count": 86
+    },
+    {
+        "Name": "San Diego RV Center",
+        "Type": "RV Dealers",
+        "Address": "9398 Bond Ave, El Cajon, CA 92021",
+        "Latitude": 32.8502422347867,
+        "Longitude": -116.8701906,
+        "Rating": 4.3,
+        "Review_Count": 38
+    },
+    {
+        "Name": "U-Haul - Escondido",
+        "Type": "Trailer Dealers",
+        "Address": "946 W Mission Av, Escondido, CA 92025",
+        "Latitude": 33.12316,
+        "Longitude": -117.08217,
+        "Rating": 1.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Carl Burger Chrysler Jeep Dodge RAM World",
+        "Type": "Auto Repair",
+        "Address": "8355 Hercules St, La Mesa, CA 91942",
+        "Latitude": 32.7743917,
+        "Longitude": -117.0153056,
+        "Rating": 2.5,
+        "Review_Count": 774
+    },
+    {
+        "Name": "Carl's Rentals",
+        "Type": "Party Supplies",
+        "Address": "3704 University Ave, San Diego, CA 92105",
+        "Latitude": 32.7499699013098,
+        "Longitude": -117.112759868717,
+        "Rating": 4.2,
+        "Review_Count": 32
+    },
+    {
+        "Name": "Dallas Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1850 W Commerce St, Dallas, TX 75208",
+        "Latitude": 32.77241,
+        "Longitude": -96.85002,
+        "Rating": 4.8,
+        "Review_Count": 84
+    },
+    {
+        "Name": "On-Site Hitch Installation",
+        "Type": "Auto Parts & Supplies",
+        "Address": "4900 Grisham Dr, Rowlett, TX 75088",
+        "Latitude": 32.90422,
+        "Longitude": -96.58236,
+        "Rating": 4.5,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2401 S Cooper St, Arlington, TX 76015",
+        "Latitude": 32.704274,
+        "Longitude": -97.1185,
+        "Rating": 3.8,
+        "Review_Count": 17
+    },
+    {
+        "Name": "TRUXX Outfitters",
+        "Type": "Auto Customization",
+        "Address": "708 Valley Ridge Cir, Ste 11, Lewisville, TX 75057",
+        "Latitude": 33.05576,
+        "Longitude": -97.00743,
+        "Rating": 4.5,
+        "Review_Count": 26
+    },
+    {
+        "Name": "JR's Custom Auto Service",
+        "Type": "Tires",
+        "Address": "150 E Airport Fwy, Irving, TX 75062",
+        "Latitude": 32.83601,
+        "Longitude": -96.94342,
+        "Rating": 4.3,
+        "Review_Count": 28
+    },
+    {
+        "Name": "American RV Service",
+        "Type": "RV Repair",
+        "Address": "11911 Hilltop Rd, Ste 4, Argyle, TX 76226",
+        "Latitude": 33.1164761,
+        "Longitude": -97.13061765183087,
+        "Rating": 4.5,
+        "Review_Count": 27
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lower Greenville",
+        "Type": "Self Storage",
+        "Address": "1616 Greenville Ave, Dallas, TX 75206",
+        "Latitude": 32.810909,
+        "Longitude": -96.769953,
+        "Rating": 2.3,
+        "Review_Count": 39
+    },
+    {
+        "Name": "Holiday World of Mesquite Tx",
+        "Type": "RV Dealers",
+        "Address": "4630 Interstate 30, Mesquite, TX 75150",
+        "Latitude": 32.8023439499562,
+        "Longitude": -96.6694852171558,
+        "Rating": 3.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "DFW Truck & Auto Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1308 US Highway 80, Mesquite, TX 75149",
+        "Latitude": 32.7919374,
+        "Longitude": -96.6153603,
+        "Rating": 3.7,
+        "Review_Count": 18
+    },
+    {
+        "Name": "Big Tex Trailer World Dallas",
+        "Type": "Trailer Dealers",
+        "Address": "10111 N Walton Walker Blvd, Dallas, TX 75220",
+        "Latitude": 32.8606352552896,
+        "Longitude": -96.9027032766551,
+        "Rating": 2.9,
+        "Review_Count": 8
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Addison",
+        "Type": "Truck Rental",
+        "Address": "2735 E Belt Line Rd, Carrollton, TX 75006",
+        "Latitude": 32.953414,
+        "Longitude": -96.857985,
+        "Rating": 2.6,
+        "Review_Count": 37
+    },
+    {
+        "Name": "Robert\u2019s Garage Auto and Marine Service",
+        "Type": "Auto Repair",
+        "Address": "119 Burrell, Dallas, TX 75232",
+        "Latitude": 32.67629674712638,
+        "Longitude": -96.823816,
+        "Rating": 3.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul - Dallas",
+        "Type": "Truck Rental",
+        "Address": "9929 Harry Hines Blvd, Dallas, TX 75220",
+        "Latitude": 32.85707041656876,
+        "Longitude": -96.8811552712376,
+        "Rating": 1.7,
+        "Review_Count": 25
+    },
+    {
+        "Name": "Achilles Autos",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1702 S State Hwy 121, Ste 412, Lewisville, TX 75067",
+        "Latitude": 33.017925171492095,
+        "Longitude": -96.99189270247211,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Fun Town RV Dallas",
+        "Type": "RV Dealers",
+        "Address": "2315 E Interstate 30, Rockwall, TX 75087",
+        "Latitude": 32.899612,
+        "Longitude": -96.4617209,
+        "Rating": 3.3,
+        "Review_Count": 45
+    },
+    {
+        "Name": "McClain's RV SuperStore",
+        "Type": "RV Dealers",
+        "Address": "5601 I-35 E, Corinth, TX 76210",
+        "Latitude": 33.157784,
+        "Longitude": -97.065538,
+        "Rating": 2.5,
+        "Review_Count": 68
+    },
+    {
+        "Name": "Dallas Dodge Chrysler Jeep Ram",
+        "Type": "Car Dealers",
+        "Address": "11550 LBJ Fwy, Dallas, TX 75238",
+        "Latitude": 32.870723363925705,
+        "Longitude": -96.679088674186,
+        "Rating": 2.0,
+        "Review_Count": 332
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Willow Bend",
+        "Type": "Self Storage",
+        "Address": "1501 Dallas Pkwy, Plano, TX 75093",
+        "Latitude": 33.019264,
+        "Longitude": -96.830231,
+        "Rating": 3.1,
+        "Review_Count": 40
+    },
+    {
+        "Name": "U-Haul Moving & Storage Of Grapevine",
+        "Type": "Self Storage",
+        "Address": "3501 William D Tate Ave, Grapevine, TX 76051",
+        "Latitude": 32.9002040133576,
+        "Longitude": -97.0984752500915,
+        "Rating": 2.8,
+        "Review_Count": 21
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "12215 Lyndon B Johnson Fwy, Garland, TX 75041",
+        "Latitude": 32.87020013111615,
+        "Longitude": -96.66737306934644,
+        "Rating": 1.7,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Richardson",
+        "Type": "Self Storage",
+        "Address": "412 N Central Expwy, Richardson, TX 75080",
+        "Latitude": 32.956079,
+        "Longitude": -96.730527,
+        "Rating": 2.1,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul At Camp Wisdom",
+        "Type": "Truck Rental",
+        "Address": "7015 S RL Thornton Fwy, Dallas, TX 75232",
+        "Latitude": 32.66306975513073,
+        "Longitude": -96.8238098312777,
+        "Rating": 1.7,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lewisville",
+        "Type": "Self Storage",
+        "Address": "525 N Stemmons Frwy, Lewisville, TX 75067",
+        "Latitude": 33.050275,
+        "Longitude": -97.010344,
+        "Rating": 2.1,
+        "Review_Count": 21
+    },
+    {
+        "Name": "U-Haul - Grand Prairie",
+        "Type": "Truck Rental",
+        "Address": "3020 I-20 W, Grand Prairie, TX 75052",
+        "Latitude": 32.678889,
+        "Longitude": -97.057514,
+        "Rating": 1.8,
+        "Review_Count": 19
+    },
+    {
+        "Name": "Toyota of Dallas",
+        "Type": "Car Dealers",
+        "Address": "2610 Forest Ln, Dallas, TX 75234",
+        "Latitude": 32.9079702573446,
+        "Longitude": -96.8893061654398,
+        "Rating": 1.9,
+        "Review_Count": 803
+    },
+    {
+        "Name": "U-Haul Moving & Storage of East Plano",
+        "Type": "Self Storage",
+        "Address": "1100 Los Rios, Plano, TX 75074",
+        "Latitude": 33.01285,
+        "Longitude": -96.6534999,
+        "Rating": 1.5,
+        "Review_Count": 29
+    },
+    {
+        "Name": "Pat Lobb Toyota of McKinney",
+        "Type": "Auto Repair",
+        "Address": "3350 S Central Expy, McKinney, TX 75070",
+        "Latitude": 33.1674371,
+        "Longitude": -96.6438772,
+        "Rating": 3.0,
+        "Review_Count": 522
+    },
+    {
+        "Name": "Luxury Coach Services",
+        "Type": "RV Dealers",
+        "Address": "1750 E Interstate 30, Rockwall, TX 75087",
+        "Latitude": 32.915781,
+        "Longitude": -96.428972,
+        "Rating": 4.2,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Toyota of Denton",
+        "Type": "Auto Repair",
+        "Address": "4100 S Interstate 35 E, Denton, TX 76210",
+        "Latitude": 33.1665159906341,
+        "Longitude": -97.0833123584642,
+        "Rating": 2.7,
+        "Review_Count": 166
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Mesquite",
+        "Type": "Self Storage",
+        "Address": "2349 E Hwy 80, Mesquite, TX 75150",
+        "Latitude": 32.793059,
+        "Longitude": -96.632502,
+        "Rating": 1.6,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Plano",
+        "Type": "Truck Rental",
+        "Address": "4101 W Plano Pkwy, Plano, TX 75093",
+        "Latitude": 33.01391,
+        "Longitude": -96.772414,
+        "Rating": 1.6,
+        "Review_Count": 22
+    },
+    {
+        "Name": "Accessory Superstore",
+        "Type": "Auto Customization",
+        "Address": "Denton, TX 76210",
+        "Latitude": 33.1701002980212,
+        "Longitude": -97.0830501616001,
+        "Rating": 5.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Blue Compass RV - Denton",
+        "Type": "RV Dealers",
+        "Address": "4001 S Interstate 35 E, Denton, TX 76210",
+        "Latitude": 33.1701961,
+        "Longitude": -97.0831934,
+        "Rating": 1.9,
+        "Review_Count": 53
+    },
+    {
+        "Name": "U-Haul - Irving",
+        "Type": "Truck Rental",
+        "Address": "2630 W Irving Blvd, Irving, TX 75061",
+        "Latitude": 32.8294918304148,
+        "Longitude": -96.9808987422308,
+        "Rating": 1.9,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul Moving & Storage of N Richland Hills",
+        "Type": "Self Storage",
+        "Address": "8221 Blvd 26, North Richland Hills, TX 76180",
+        "Latitude": 32.841609,
+        "Longitude": -97.20502,
+        "Rating": 2.1,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul Moving & Storage of East Arlington",
+        "Type": "Truck Rental",
+        "Address": "2901 E Pioneer Pkwy, Arlington, TX 76010",
+        "Latitude": 32.71296,
+        "Longitude": -97.05834,
+        "Rating": 2.3,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "2560 Kathryn Ln, Plano, TX 75025",
+        "Latitude": 33.1216620898541,
+        "Longitude": -96.7411914044141,
+        "Rating": 2.5,
+        "Review_Count": 46
+    },
+    {
+        "Name": "Campers4Rent Dallas RV Rental",
+        "Type": "RV Rental",
+        "Address": "7554 I-30 Frontage Rd, Ste B, Cumby, TX 75433",
+        "Latitude": 33.13017554240747,
+        "Longitude": -95.866417602259,
+        "Rating": 2.7,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "3901 N Central Expy, Plano, TX 75023",
+        "Latitude": 33.04760356795521,
+        "Longitude": -96.70008501774322,
+        "Rating": 2.2,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Cedar Hill",
+        "Type": "Self Storage",
+        "Address": "1050 KCK Way, Cedar Hill, TX 75104",
+        "Latitude": 32.569266,
+        "Longitude": -96.965203,
+        "Rating": 3.1,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Trails End Truck Accessories",
+        "Type": "Auto Customization",
+        "Address": "511 Palo Pinto St, Weatherford, TX 76086",
+        "Latitude": 32.758612277710924,
+        "Longitude": -97.80482123880932,
+        "Rating": 3.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Eyers Hitch Center",
+        "Type": "Trailer Repair",
+        "Address": "3473 El Camino Real, Santa Clara, CA 95051",
+        "Latitude": 37.3525649,
+        "Longitude": -121.99183,
+        "Rating": 4.4,
+        "Review_Count": 121
+    },
+    {
+        "Name": "Rack N Road",
+        "Type": "Outdoor Gear",
+        "Address": "1950 W San Carlos St, San Jose, CA 95128",
+        "Latitude": 37.3231321,
+        "Longitude": -121.9303874,
+        "Rating": 4.6,
+        "Review_Count": 621
+    },
+    {
+        "Name": "A & B Trailer Hitch",
+        "Type": "Auto Repair",
+        "Address": "955 American St, San Carlos, CA 94070",
+        "Latitude": 37.49926716729396,
+        "Longitude": -122.24604797168624,
+        "Rating": 4.8,
+        "Review_Count": 207
+    },
+    {
+        "Name": "Ben Lifted 4 Wheel Drive & Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5040 Scotts Valley Dr, Ste A, Scott Valley, CA 95066",
+        "Latitude": 37.0546199,
+        "Longitude": -122.0118628,
+        "Rating": 5.0,
+        "Review_Count": 49
+    },
+    {
+        "Name": "TDW Auto",
+        "Type": "Auto Repair",
+        "Address": "1691 Villa Stone Dr, Ste 40, San Jose, CA 95125",
+        "Latitude": 37.30609,
+        "Longitude": -121.87736,
+        "Rating": 5.0,
+        "Review_Count": 154
+    },
+    {
+        "Name": "The Rack Spot",
+        "Type": "Outdoor Gear",
+        "Address": "1200 El Camino Real, San Carlos, CA 94070",
+        "Latitude": 37.499039,
+        "Longitude": -122.251129,
+        "Rating": 4.9,
+        "Review_Count": 280
+    },
+    {
+        "Name": "A&B Trailer Hitch",
+        "Type": "Trailer Repair",
+        "Address": "3051 Edison Way, Redwood City, CA 94063",
+        "Latitude": 37.476337,
+        "Longitude": -122.204673,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "JST Auto Care",
+        "Type": "Auto Repair",
+        "Address": "10151 Imperial Ave, Cupertino, CA 95014",
+        "Latitude": 37.3206823,
+        "Longitude": -122.0535369,
+        "Rating": 4.9,
+        "Review_Count": 129
+    },
+    {
+        "Name": "Campway's Truck Accessory World",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1324 Oakland Rd, San Jose, CA 95112",
+        "Latitude": 37.36882,
+        "Longitude": -121.89205,
+        "Rating": 4.0,
+        "Review_Count": 64
+    },
+    {
+        "Name": "Orlandi Trailer",
+        "Type": "Trailer Dealers",
+        "Address": "3120 Moorpark Ave, San Jose, CA 95117",
+        "Latitude": 37.3159644,
+        "Longitude": -121.9513738,
+        "Rating": 3.9,
+        "Review_Count": 86
+    },
+    {
+        "Name": "Big Art & Son Mobile Marine & Trailer Repair",
+        "Type": "Boat Repair",
+        "Address": "Santa Clara, CA 95056",
+        "Latitude": 37.3990859985352,
+        "Longitude": -121.961250305176,
+        "Rating": 5.0,
+        "Review_Count": 70
+    },
+    {
+        "Name": "U-Haul at Tully Rd",
+        "Type": "Truck Rental",
+        "Address": "2395 Senter Rd, San Jose, CA 95112",
+        "Latitude": 37.308024,
+        "Longitude": -121.848219,
+        "Rating": 2.9,
+        "Review_Count": 80
+    },
+    {
+        "Name": "U-Haul Of Campbell",
+        "Type": "Truck Rental",
+        "Address": "1266 White Oaks Rd, Campbell, CA 95008",
+        "Latitude": 37.268935,
+        "Longitude": -121.946426,
+        "Rating": 3.3,
+        "Review_Count": 107
+    },
+    {
+        "Name": "Driven Underground",
+        "Type": "Auto Customization",
+        "Address": "40927 Albrae St, Fremont, CA 94538",
+        "Latitude": 37.51846,
+        "Longitude": -121.98306,
+        "Rating": 4.8,
+        "Review_Count": 34
+    },
+    {
+        "Name": "Almaden RV Service and Repairs",
+        "Type": "RV Repair",
+        "Address": "494 Phelan Ave, San Jose, CA 95112",
+        "Latitude": 37.31572,
+        "Longitude": -121.86081,
+        "Rating": 3.8,
+        "Review_Count": 115
+    },
+    {
+        "Name": "U-Haul at Curtner Ave",
+        "Type": "Truck Rental",
+        "Address": "705 Curtner Av, San Jose, CA 95125",
+        "Latitude": 37.2931219,
+        "Longitude": -121.875861,
+        "Rating": 2.6,
+        "Review_Count": 118
+    },
+    {
+        "Name": "FJM Truck & Trailer Center",
+        "Type": "Trailer Rental",
+        "Address": "1540 Industrial Ave, San Jose, CA 95112",
+        "Latitude": 37.370711,
+        "Longitude": -121.899468,
+        "Rating": 3.7,
+        "Review_Count": 61
+    },
+    {
+        "Name": "Street Scene",
+        "Type": "Auto Repair",
+        "Address": "27 1st St, Watsonville, CA 95076",
+        "Latitude": 36.9068595,
+        "Longitude": -121.7546056,
+        "Rating": 4.7,
+        "Review_Count": 42
+    },
+    {
+        "Name": "TrailersPlus - Gilroy",
+        "Type": "Trailer Dealers",
+        "Address": "6380 Automall Pkwy, Gilroy, CA 95020",
+        "Latitude": 36.99268,
+        "Longitude": -121.55826,
+        "Rating": 3.6,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Santa Clara",
+        "Type": "Truck Rental",
+        "Address": "2121 Laurelwood Rd, Santa Clara, CA 95054",
+        "Latitude": 37.38263,
+        "Longitude": -121.96104,
+        "Rating": 2.3,
+        "Review_Count": 47
+    },
+    {
+        "Name": "U-Haul of Milpitas",
+        "Type": "Truck Rental",
+        "Address": "2395 Oakland Rd, San Jose, CA 95131",
+        "Latitude": 37.404009,
+        "Longitude": -121.903295,
+        "Rating": 3.5,
+        "Review_Count": 46
+    },
+    {
+        "Name": "Custom Truck",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1485 Veterans Blvd, Redwood City, CA 94063",
+        "Latitude": 37.489082,
+        "Longitude": -122.216714,
+        "Rating": 4.6,
+        "Review_Count": 79
+    },
+    {
+        "Name": "Midnight Automotive",
+        "Type": "Auto Repair",
+        "Address": "817 Douglas Ave, Redwood City, CA 94063",
+        "Latitude": 37.48331,
+        "Longitude": -122.2094,
+        "Rating": 4.5,
+        "Review_Count": 86
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "13635 Sycamore Ave, San Martin, CA 95046",
+        "Latitude": 37.09367105000002,
+        "Longitude": -121.60004710969427,
+        "Rating": 2.5,
+        "Review_Count": 189
+    },
+    {
+        "Name": "Capitol Toyota",
+        "Type": "Auto Repair",
+        "Address": "775 Capitol Expressway Auto Mall, San Jose, CA 95136",
+        "Latitude": 37.2760334718606,
+        "Longitude": -121.869964599609,
+        "Rating": 3.7,
+        "Review_Count": 2310
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Fremont",
+        "Type": "Self Storage",
+        "Address": "44511 S Grimmer Blvd, Fremont, CA 94538",
+        "Latitude": 37.501714,
+        "Longitude": -121.954209,
+        "Rating": 3.4,
+        "Review_Count": 69
+    },
+    {
+        "Name": "Roger's Camping Trailers",
+        "Type": "RV Repair",
+        "Address": "8010 W 11th St, Tracy, CA 95304",
+        "Latitude": 37.739303,
+        "Longitude": -121.404449,
+        "Rating": 4.9,
+        "Review_Count": 47
+    },
+    {
+        "Name": "U-Haul Moving & Storage at The Alameda",
+        "Type": "Self Storage",
+        "Address": "1027 The Alameda, San Jose, CA 95126",
+        "Latitude": 37.331933,
+        "Longitude": -121.90944,
+        "Rating": 2.2,
+        "Review_Count": 122
+    },
+    {
+        "Name": "Leale's RV",
+        "Type": "Transmission Repair",
+        "Address": "581 Race St, San Jose, CA 95126",
+        "Latitude": 37.3174541,
+        "Longitude": -121.9117178,
+        "Rating": 4.0,
+        "Review_Count": 132
+    },
+    {
+        "Name": "V&V Bros RVs and Trailers",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1020 Hansen Way, Ste A, Redwood City, CA 94063",
+        "Latitude": 37.48959149275822,
+        "Longitude": -122.21862957268242,
+        "Rating": 4.6,
+        "Review_Count": 94
+    },
+    {
+        "Name": "Family RV",
+        "Type": "RV Rental",
+        "Address": "7900 Arroyo Cir, Gilroy, CA 95020",
+        "Latitude": 37.0178811,
+        "Longitude": -121.5614333,
+        "Rating": 4.1,
+        "Review_Count": 231
+    },
+    {
+        "Name": "U-Haul - Sunnyvale",
+        "Type": "Truck Rental",
+        "Address": "939 E El Camino Real, Sunnyvale, CA 94086",
+        "Latitude": 37.352476488978,
+        "Longitude": -122.011286543497,
+        "Rating": 2.1,
+        "Review_Count": 149
+    },
+    {
+        "Name": "El Mecanico Truck & Auto Service",
+        "Type": "Auto Repair",
+        "Address": "3829 First St, Ste B, Livermore, CA 94551",
+        "Latitude": 37.6900547,
+        "Longitude": -121.7531346,
+        "Rating": 4.8,
+        "Review_Count": 47
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Thornton",
+        "Type": "Self Storage",
+        "Address": "4833 Thornton Av, Fremont, CA 94536",
+        "Latitude": 37.550521,
+        "Longitude": -122.020304,
+        "Rating": 3.4,
+        "Review_Count": 90
+    },
+    {
+        "Name": "Happy Daze RV's - Livermore",
+        "Type": "RV Rental",
+        "Address": "5605 Southfront Rd, Livermore, CA 94551",
+        "Latitude": 37.704161,
+        "Longitude": -121.730382,
+        "Rating": 4.0,
+        "Review_Count": 155
+    },
+    {
+        "Name": "Stevens Creek BMW",
+        "Type": "Auto Repair",
+        "Address": "4343 Stevens Creek Blvd, Santa Clara, CA 95051",
+        "Latitude": 37.323945,
+        "Longitude": -121.97837,
+        "Rating": 2.9,
+        "Review_Count": 2279
+    },
+    {
+        "Name": "VK Garage",
+        "Type": "Auto Detailing",
+        "Address": "1413 West Texas St, Fairfield, CA 94533",
+        "Latitude": 38.24861370490033,
+        "Longitude": -122.05313530330058,
+        "Rating": 5.0,
+        "Review_Count": 64
+    },
+    {
+        "Name": "ABC Toy Garage",
+        "Type": "Tires",
+        "Address": "1296 Old County Rd, Belmont, CA 94002",
+        "Latitude": 37.5191903,
+        "Longitude": -122.2733862,
+        "Rating": 4.9,
+        "Review_Count": 203
+    },
+    {
+        "Name": "Viarv Parts and Service",
+        "Type": "RV Repair",
+        "Address": "1983 Alpine Way, Ste c, Hayward, CA 94545",
+        "Latitude": 37.64843,
+        "Longitude": -122.12342,
+        "Rating": 4.1,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Mission Valley Ford Trucks",
+        "Type": "Auto Repair",
+        "Address": "780 E Brokaw Rd, San Jose, CA 95112",
+        "Latitude": 37.3812889263714,
+        "Longitude": -121.90579229577,
+        "Rating": 2.5,
+        "Review_Count": 74
+    },
+    {
+        "Name": "Stevens Creek Subaru",
+        "Type": "Car Dealers",
+        "Address": "3225 Stevens Creek Blvd, San Jose, CA 95117",
+        "Latitude": 37.32357414045903,
+        "Longitude": -121.95372113094864,
+        "Rating": 3.8,
+        "Review_Count": 2232
+    },
+    {
+        "Name": "Putnam Subaru",
+        "Type": "Car Dealers",
+        "Address": "85 California Dr, Burlingame, CA 94010",
+        "Latitude": 37.577655060054255,
+        "Longitude": -122.34131424478916,
+        "Rating": 4.5,
+        "Review_Count": 1680
+    },
+    {
+        "Name": "Putnam Toyota",
+        "Type": "Auto Repair",
+        "Address": "50 California Dr, Burlingame, CA 94010",
+        "Latitude": 37.577787526338554,
+        "Longitude": -122.34068535276108,
+        "Rating": 4.3,
+        "Review_Count": 1161
+    },
+    {
+        "Name": "Toyota Sunnyvale",
+        "Type": "Car Dealers",
+        "Address": "898 W El Camino Real, Sunnyvale, CA 94087",
+        "Latitude": 37.3705609739856,
+        "Longitude": -122.04437422699678,
+        "Rating": 3.4,
+        "Review_Count": 2798
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "2181 Laurelwood Rd, Santa Clara, CA 95054",
+        "Latitude": 37.384282,
+        "Longitude": -121.9623,
+        "Rating": 3.0,
+        "Review_Count": 23
+    },
+    {
+        "Name": "Driven Auto Care",
+        "Type": "Auto Repair",
+        "Address": "40931 Albrae St., Fremont, CA 94538",
+        "Latitude": 37.5184064432706,
+        "Longitude": -121.982991606885,
+        "Rating": 4.6,
+        "Review_Count": 401
+    },
+    {
+        "Name": "Stereo Base",
+        "Type": "Car Stereo Installation",
+        "Address": "26135 Mission Blvd, Hayward, CA 94544",
+        "Latitude": 37.6505947,
+        "Longitude": -122.067008972168,
+        "Rating": 4.7,
+        "Review_Count": 675
+    },
+    {
+        "Name": "U-Haul - Redwood City",
+        "Type": "Self Storage",
+        "Address": "2200 El Camino Real, Redwood City, CA 94063",
+        "Latitude": 37.475133,
+        "Longitude": -122.221026,
+        "Rating": 2.0,
+        "Review_Count": 166
+    },
+    {
+        "Name": "U-Haul - Mountain View",
+        "Type": "Truck Rental",
+        "Address": "62 W El Camino Real, Mountain View, CA 94040",
+        "Latitude": 37.381084,
+        "Longitude": -122.074019,
+        "Rating": 2.1,
+        "Review_Count": 177
+    },
+    {
+        "Name": "U-Haul - Belmont",
+        "Type": "Self Storage",
+        "Address": "554 El Camino Real, Belmont, CA 94002",
+        "Latitude": 37.5243540529444,
+        "Longitude": -122.280951427371,
+        "Rating": 2.0,
+        "Review_Count": 146
+    },
+    {
+        "Name": "Texas Hitch & Truck Center",
+        "Type": "Trailer Repair",
+        "Address": "1508 Fortview Rd, Austin, TX 78704",
+        "Latitude": 30.22885,
+        "Longitude": -97.7826,
+        "Rating": 4.4,
+        "Review_Count": 34
+    },
+    {
+        "Name": "Texas Hitch & Truck Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "9099 Research Blvd, Austin, TX 78758",
+        "Latitude": 30.374868,
+        "Longitude": -97.728134,
+        "Rating": 4.5,
+        "Review_Count": 76
+    },
+    {
+        "Name": "Spillar Custom Hitches",
+        "Type": "Trailer Repair",
+        "Address": "10704 S Interstate 35, Austin, TX 78748",
+        "Latitude": 30.146764970628993,
+        "Longitude": -97.79495031879416,
+        "Rating": 3.8,
+        "Review_Count": 37
+    },
+    {
+        "Name": "Texas Truck and Trailer",
+        "Type": "Auto Parts & Supplies",
+        "Address": "9621 N IH35 Service Rd, Austin, TX 78753",
+        "Latitude": 30.3612534,
+        "Longitude": -97.6852928,
+        "Rating": 4.4,
+        "Review_Count": 45
+    },
+    {
+        "Name": "Just Jeeps",
+        "Type": "Auto Parts & Supplies",
+        "Address": "603 Williams St, Austin, TX 78752",
+        "Latitude": 30.334183,
+        "Longitude": -97.718859,
+        "Rating": 4.7,
+        "Review_Count": 97
+    },
+    {
+        "Name": "Renegade Truck Accessories",
+        "Type": "Auto Glass Services",
+        "Address": "12621 B Research Blvd, Austin, TX 78759",
+        "Latitude": 30.432313157730324,
+        "Longitude": -97.76327235543836,
+        "Rating": 4.6,
+        "Review_Count": 43
+    },
+    {
+        "Name": "LINE-X of Round Rock",
+        "Type": "Auto Customization",
+        "Address": "600 Lemens Ave, Ste 400, Hutto, TX 78634",
+        "Latitude": 30.5642,
+        "Longitude": -97.58781,
+        "Rating": 5.0,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul - Austin",
+        "Type": "Towing",
+        "Address": "8706 Burnet Rd, Austin, TX 78757",
+        "Latitude": 30.370337,
+        "Longitude": -97.728563,
+        "Rating": 2.6,
+        "Review_Count": 58
+    },
+    {
+        "Name": "B&H Customs",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2925 A W Grimes Blvd, Ste 300, Pflugerville, TX 78660",
+        "Latitude": 30.4772994996208,
+        "Longitude": -97.642531874205,
+        "Rating": 4.3,
+        "Review_Count": 39
+    },
+    {
+        "Name": "Magnum Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "10806 Hwy 620 N, Austin, TX 78726",
+        "Latitude": 30.448301021358127,
+        "Longitude": -97.8322899699582,
+        "Rating": 3.2,
+        "Review_Count": 38
+    },
+    {
+        "Name": "U-Haul at N Lamar",
+        "Type": "Truck Rental",
+        "Address": "5412 N Lamar, Austin, TX 78751",
+        "Latitude": 30.3229641300048,
+        "Longitude": -97.7283576280691,
+        "Rating": 2.7,
+        "Review_Count": 54
+    },
+    {
+        "Name": "Unlimited Powersports Inc",
+        "Type": "Auto Repair",
+        "Address": "12024 Hwy 290 W, Austin, TX 78737",
+        "Latitude": 30.2085273,
+        "Longitude": -97.9734799,
+        "Rating": 4.6,
+        "Review_Count": 5
+    },
+    {
+        "Name": "Pickup Heaven",
+        "Type": "Tires",
+        "Address": "200 Tradesmens Park Dr, Hutto, TX 78634",
+        "Latitude": 30.5363511204097,
+        "Longitude": -97.59209826441804,
+        "Rating": 4.7,
+        "Review_Count": 35
+    },
+    {
+        "Name": "Lone Star Mobile RV Service",
+        "Type": "RV Repair",
+        "Address": "Smithville, TX 78957",
+        "Latitude": 30.0054168701172,
+        "Longitude": -97.1522674560547,
+        "Rating": 4.5,
+        "Review_Count": 19
+    },
+    {
+        "Name": "Fabcon Products",
+        "Type": "Tires",
+        "Address": "1850 Cr 269, Leander, TX 78641",
+        "Latitude": 30.5831466233401,
+        "Longitude": -97.8353762626648,
+        "Rating": 4.2,
+        "Review_Count": 21
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Slaughter Lane",
+        "Type": "Self Storage",
+        "Address": "9001 S I-35 Frontage Rd, Austin, TX 78744",
+        "Latitude": 30.166558,
+        "Longitude": -97.78449,
+        "Rating": 2.2,
+        "Review_Count": 85
+    },
+    {
+        "Name": "Hill Country Off-Road",
+        "Type": "Auto Customization",
+        "Address": "31560 Ranch Road 12, Ste 209, Dripping Springs, TX 78620",
+        "Latitude": 30.250076,
+        "Longitude": -98.05705017,
+        "Rating": 5.0,
+        "Review_Count": 10
+    },
+    {
+        "Name": "Big Tex Trailer World Buda",
+        "Type": "Trailer Dealers",
+        "Address": "17140 Ih 35, Buda, TX 78610",
+        "Latitude": 30.0526674091816,
+        "Longitude": -97.8376112133265,
+        "Rating": 3.3,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul At University Texas",
+        "Type": "Truck Rental",
+        "Address": "4021 N Interstate 35, Austin, TX 78722",
+        "Latitude": 30.2971236896213,
+        "Longitude": -97.7177705956405,
+        "Rating": 1.8,
+        "Review_Count": 42
+    },
+    {
+        "Name": "Rack Attack Austin",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6006 E Ben White Blvd, Ste 300, Austin, TX 78741",
+        "Latitude": 30.21324,
+        "Longitude": -97.71526,
+        "Rating": 4.4,
+        "Review_Count": 5
+    },
+    {
+        "Name": "RideNow Austin",
+        "Type": "Motorcycle Dealers",
+        "Address": "11405 N Interstate Hwy 35, Austin, TX 78753",
+        "Latitude": 30.3781668010019,
+        "Longitude": -97.6742262,
+        "Rating": 2.6,
+        "Review_Count": 337
+    },
+    {
+        "Name": "U-Haul Moving & Storage At Ben White",
+        "Type": "Self Storage",
+        "Address": "304 E Ben White Blvd, Austin, TX 78704",
+        "Latitude": 30.2220630645752,
+        "Longitude": -97.7607040405273,
+        "Rating": 2.0,
+        "Review_Count": 123
+    },
+    {
+        "Name": "Camper Clinic II",
+        "Type": "RV Dealers",
+        "Address": "15855 S Ih 35 Exit 220, Buda, TX 78610",
+        "Latitude": 30.076064,
+        "Longitude": -97.824146,
+        "Rating": 3.2,
+        "Review_Count": 116
+    },
+    {
+        "Name": "Princess Craft RV",
+        "Type": "RV Dealers",
+        "Address": "3101 North Ih 35, Round Rock, TX 78664",
+        "Latitude": 30.543831,
+        "Longitude": -97.6918,
+        "Rating": 3.2,
+        "Review_Count": 53
+    },
+    {
+        "Name": "RV Outlet Mall",
+        "Type": "RV Dealers",
+        "Address": "4500 S Interstate 35, Georgetown, TX 78626",
+        "Latitude": 30.603301,
+        "Longitude": -97.688819,
+        "Rating": 2.4,
+        "Review_Count": 48
+    },
+    {
+        "Name": "Nyle Maxwell Chrysler Dodge Jeep Ram",
+        "Type": "Car Dealers",
+        "Address": "13401 N FM 620, Austin, TX 78717",
+        "Latitude": 30.46957542045143,
+        "Longitude": -97.78795797739278,
+        "Rating": 2.4,
+        "Review_Count": 502
+    },
+    {
+        "Name": "U-Haul Moving & Storage - Round Rock",
+        "Type": "Self Storage",
+        "Address": "1535 Round Rock Ave, Round Rock, TX 78681",
+        "Latitude": 30.5121739,
+        "Longitude": -97.6998824,
+        "Rating": 2.2,
+        "Review_Count": 40
+    },
+    {
+        "Name": "Town North Nissan",
+        "Type": "Car Dealers",
+        "Address": "9160A Research Blvd, Austin, TX 78758",
+        "Latitude": 30.37447323941083,
+        "Longitude": -97.7314254652265,
+        "Rating": 2.4,
+        "Review_Count": 685
+    },
+    {
+        "Name": "Cannon's of Jax",
+        "Type": "Metal Fabricators",
+        "Address": "6150 Richard St, Jacksonville, FL 32216",
+        "Latitude": 30.25967,
+        "Longitude": -81.6091299,
+        "Rating": 4.7,
+        "Review_Count": 13
+    },
+    {
+        "Name": "Travelcamp RV - Jacksonville",
+        "Type": "RV Dealers",
+        "Address": "9012 Beach Blvd, Jacksonville, FL 32216",
+        "Latitude": 30.286011659910496,
+        "Longitude": -81.56195771230233,
+        "Rating": 3.3,
+        "Review_Count": 46
+    },
+    {
+        "Name": "U-Haul Moving & Storage of South Jacksonville",
+        "Type": "Self Storage",
+        "Address": "5630 Phillips Hwy, Jacksonville, FL 32207",
+        "Latitude": 30.26619,
+        "Longitude": -81.61958,
+        "Rating": 1.8,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul at Southside & Beach Blvd",
+        "Type": "Truck Rental",
+        "Address": "3129 Southside Blvd, Jacksonville, FL 32216",
+        "Latitude": 30.2885089611977,
+        "Longitude": -81.5587725390129,
+        "Rating": 2.2,
+        "Review_Count": 17
+    },
+    {
+        "Name": "All Pro Jacksonville",
+        "Type": "Trailer Dealers",
+        "Address": "10839 North Main, Jacksonville, FL 32218",
+        "Latitude": 30.432501025726367,
+        "Longitude": -81.6430641,
+        "Rating": 2.7,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center at Southside & Beach Blvd",
+        "Type": "Self Storage",
+        "Address": "3125 Southside Blvd, Jacksonville, FL 32216",
+        "Latitude": 30.2886462,
+        "Longitude": -81.558727,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Orange Park",
+        "Type": "Truck Rental",
+        "Address": "701 Blanding Blvd, Orange Park, FL 32065",
+        "Latitude": 30.1476890310958,
+        "Longitude": -81.7572172539673,
+        "Rating": 2.8,
+        "Review_Count": 6
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Westside Jacksonville",
+        "Type": "Truck Rental",
+        "Address": "6100 Blanding Blvd, Jacksonville, FL 32244",
+        "Latitude": 30.2396580715868,
+        "Longitude": -81.7416161298752,
+        "Rating": 2.7,
+        "Review_Count": 7
+    },
+    {
+        "Name": "General RV Center",
+        "Type": "RV Dealers",
+        "Address": "1577 Wls Rd, Orange Park, FL 32073",
+        "Latitude": 30.190305973006804,
+        "Longitude": -81.71755361557007,
+        "Rating": 1.9,
+        "Review_Count": 107
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "10101 Interstate Ct Dr, Jacksonville, FL 32218",
+        "Latitude": 30.42116544,
+        "Longitude": -81.658080245369,
+        "Rating": 2.3,
+        "Review_Count": 57
+    },
+    {
+        "Name": "U-Haul of Neptune Beach",
+        "Type": "Truck Rental",
+        "Address": "600 Atlantic Blvd, Neptune Beach, FL 32266",
+        "Latitude": 30.32385,
+        "Longitude": -81.40355,
+        "Rating": 3.0,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul - Fouraker Road",
+        "Type": "Truck Rental",
+        "Address": "1501 Normandy Village Pkwy, Jacksonville, FL 32221",
+        "Latitude": 30.294982,
+        "Longitude": -81.77383,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center of Neptune Beach",
+        "Type": "Trailer Dealers",
+        "Address": "598 Atlantic Blvd, Neptune Beach, FL 32266",
+        "Latitude": 30.3243451,
+        "Longitude": -81.4035366,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Discount Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "2401 S Cooper St, Arlington, TX 76015",
+        "Latitude": 32.704274,
+        "Longitude": -97.1185,
+        "Rating": 3.8,
+        "Review_Count": 17
+    },
+    {
+        "Name": "TRUXX Outfitters",
+        "Type": "Auto Customization",
+        "Address": "708 Valley Ridge Cir, Ste 11, Lewisville, TX 75057",
+        "Latitude": 33.05576,
+        "Longitude": -97.00743,
+        "Rating": 4.5,
+        "Review_Count": 26
+    },
+    {
+        "Name": "JR's Custom Auto Service",
+        "Type": "Tires",
+        "Address": "150 E Airport Fwy, Irving, TX 75062",
+        "Latitude": 32.83601,
+        "Longitude": -96.94342,
+        "Rating": 4.3,
+        "Review_Count": 28
+    },
+    {
+        "Name": "Texas Trailer Man",
+        "Type": "Trailer Dealers",
+        "Address": "10050 Jacksboro Hwy, Nine Mile Bridge Rd Exit, Fort Worth, TX 76135",
+        "Latitude": 32.838665400560565,
+        "Longitude": -97.49131715445752,
+        "Rating": 3.3,
+        "Review_Count": 11
+    },
+    {
+        "Name": "United RV Center",
+        "Type": "RV Dealers",
+        "Address": "5100 Airport Fwy, Fort Worth, TX 76117",
+        "Latitude": 32.7809196,
+        "Longitude": -97.2721138,
+        "Rating": 3.3,
+        "Review_Count": 62
+    },
+    {
+        "Name": "U-Haul - Fort Worth",
+        "Type": "Self Storage",
+        "Address": "1101 E Loop 820, Fort Worth, TX 76120",
+        "Latitude": 32.765247,
+        "Longitude": -97.211759,
+        "Rating": 1.8,
+        "Review_Count": 10
+    },
+    {
+        "Name": "TrailersPlus - Ft Worth",
+        "Type": "Trailer Dealers",
+        "Address": "3500 E 820th Lp S, Ft Worth, TX 76119",
+        "Latitude": 32.711609,
+        "Longitude": -97.230707,
+        "Rating": 3.4,
+        "Review_Count": 9
+    },
+    {
+        "Name": "All Pro Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6011 Airport Fwy, Haltom City, TX 76117",
+        "Latitude": 32.790211,
+        "Longitude": -97.254963,
+        "Rating": 3.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul Moving & Storage Of Haltom City",
+        "Type": "Self Storage",
+        "Address": "5201 Denton Hwy, Haltom City, TX 76148",
+        "Latitude": 32.84044,
+        "Longitude": -97.265072,
+        "Rating": 2.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul Moving & Storage Of Grapevine",
+        "Type": "Self Storage",
+        "Address": "3501 William D Tate Ave, Grapevine, TX 76051",
+        "Latitude": 32.9002040133576,
+        "Longitude": -97.0984752500915,
+        "Rating": 2.8,
+        "Review_Count": 21
+    },
+    {
+        "Name": "U-Haul Moving & Storage",
+        "Type": "Self Storage",
+        "Address": "1000 Alta Mere Dr, Fort Worth, TX 76116",
+        "Latitude": 32.739322,
+        "Longitude": -97.44239,
+        "Rating": 2.6,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul - Grand Prairie",
+        "Type": "Truck Rental",
+        "Address": "3020 I-20 W, Grand Prairie, TX 75052",
+        "Latitude": 32.678889,
+        "Longitude": -97.057514,
+        "Rating": 1.8,
+        "Review_Count": 19
+    },
+    {
+        "Name": "MHSRV",
+        "Type": "RV Dealers",
+        "Address": "5411 S 1-35 W, Alvarado, TX 76009",
+        "Latitude": 32.424544,
+        "Longitude": -97.23021,
+        "Rating": 2.1,
+        "Review_Count": 189
+    },
+    {
+        "Name": "U-Haul Moving & Storage of N Richland Hills",
+        "Type": "Self Storage",
+        "Address": "8221 Blvd 26, North Richland Hills, TX 76180",
+        "Latitude": 32.841609,
+        "Longitude": -97.20502,
+        "Rating": 2.1,
+        "Review_Count": 11
+    },
+    {
+        "Name": "Trails End Truck Accessories",
+        "Type": "Auto Customization",
+        "Address": "511 Palo Pinto St, Weatherford, TX 76086",
+        "Latitude": 32.758612277710924,
+        "Longitude": -97.80482123880932,
+        "Rating": 3.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Achilles Autos",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1702 S State Hwy 121, Ste 412, Lewisville, TX 75067",
+        "Latitude": 33.017925171492095,
+        "Longitude": -96.99189270247211,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lewisville",
+        "Type": "Self Storage",
+        "Address": "525 N Stemmons Frwy, Lewisville, TX 75067",
+        "Latitude": 33.050275,
+        "Longitude": -97.010344,
+        "Rating": 2.1,
+        "Review_Count": 21
+    },
+    {
+        "Name": "U-Haul Moving & Storage of East Arlington",
+        "Type": "Truck Rental",
+        "Address": "2901 E Pioneer Pkwy, Arlington, TX 76010",
+        "Latitude": 32.71296,
+        "Longitude": -97.05834,
+        "Rating": 2.3,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul Moving & Storage of S Fort Worth-Altamesa",
+        "Type": "Self Storage",
+        "Address": "3019 Altamesa Blvd, Fort Worth, TX 76133",
+        "Latitude": 32.64891,
+        "Longitude": -97.362146,
+        "Rating": 1.5,
+        "Review_Count": 8
+    },
+    {
+        "Name": "Campers4Rent Dallas RV Rental",
+        "Type": "RV Rental",
+        "Address": "7554 I-30 Frontage Rd, Ste B, Cumby, TX 75433",
+        "Latitude": 33.13017554240747,
+        "Longitude": -95.866417602259,
+        "Rating": 2.7,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul - Irving",
+        "Type": "Truck Rental",
+        "Address": "2630 W Irving Blvd, Irving, TX 75061",
+        "Latitude": 32.8294918304148,
+        "Longitude": -96.9808987422308,
+        "Rating": 1.9,
+        "Review_Count": 22
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Cedar Hill",
+        "Type": "Self Storage",
+        "Address": "1050 KCK Way, Cedar Hill, TX 75104",
+        "Latitude": 32.569266,
+        "Longitude": -96.965203,
+        "Rating": 3.1,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Funtrail Vehicle Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3966 Indianola Ave, Columbus, OH 43214",
+        "Latitude": 40.0452537536621,
+        "Longitude": -82.9993591308594,
+        "Rating": 4.6,
+        "Review_Count": 5
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center",
+        "Type": "Trailer Dealers",
+        "Address": "2978 Morse Rd, Columbus, OH 43231",
+        "Latitude": 40.0590768,
+        "Longitude": -82.9404656,
+        "Rating": 3.0,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Pickups Plus Cars",
+        "Type": "Auto Parts & Supplies",
+        "Address": "4537 Cemetery Rd, Hilliard, OH 43026",
+        "Latitude": 40.03161,
+        "Longitude": -83.13793,
+        "Rating": 3.9,
+        "Review_Count": 11
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Northeast Columbus",
+        "Type": "Self Storage",
+        "Address": "1314 E 5th Ave, Columbus, OH 43219",
+        "Latitude": 39.9857236,
+        "Longitude": -82.969349,
+        "Rating": 3.6,
+        "Review_Count": 11
+    },
+    {
+        "Name": "Bullet Upfitters",
+        "Type": "Auto Customization",
+        "Address": "7580 Industrial Pkwy, Plain City, OH 43064",
+        "Latitude": 40.12142,
+        "Longitude": -83.19169,
+        "Rating": 4.4,
+        "Review_Count": 7
+    },
+    {
+        "Name": "Pickups Plus Cars",
+        "Type": "Tires",
+        "Address": "7950 Columbus Pike, Lewis Center, OH 43035",
+        "Latitude": 40.1764104,
+        "Longitude": -83.0227429,
+        "Rating": 2.3,
+        "Review_Count": 20
+    },
+    {
+        "Name": "Trails West",
+        "Type": "Tires",
+        "Address": "12290 National Rd SW, Pataskala, OH 43062",
+        "Latitude": 39.9569627741579,
+        "Longitude": -82.7182877632293,
+        "Rating": 3.3,
+        "Review_Count": 19
+    },
+    {
+        "Name": "Colerain Family RV - Columbus",
+        "Type": "RV Dealers",
+        "Address": "5742 State Rte 37 E, Delaware, OH 43015",
+        "Latitude": 40.271627,
+        "Longitude": -82.9625749,
+        "Rating": 2.6,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Morse Road",
+        "Type": "Self Storage",
+        "Address": "2980 Morse Rd, Columbus, OH 43231",
+        "Latitude": 40.059156994742,
+        "Longitude": -82.9403139153442,
+        "Rating": 2.0,
+        "Review_Count": 22
+    },
+    {
+        "Name": "Hugh White Honda",
+        "Type": "Auto Repair",
+        "Address": "1360 Auto Mall Dr, Columbus, OH 43228",
+        "Latitude": 39.925004,
+        "Longitude": -83.123676,
+        "Rating": 2.8,
+        "Review_Count": 72
+    },
+    {
+        "Name": "Germain Honda of Dublin",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6715 Sawmill Rd, Dublin, OH 43017",
+        "Latitude": 40.104025,
+        "Longitude": -83.092372,
+        "Rating": 2.4,
+        "Review_Count": 270
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Whitehall",
+        "Type": "Self Storage",
+        "Address": "3500 E Main St, Columbus, OH 43213",
+        "Latitude": 39.956724,
+        "Longitude": -82.905322,
+        "Rating": 2.1,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lancaster",
+        "Type": "Self Storage",
+        "Address": "1921 Riverway Dr, Lancaster, OH 43130",
+        "Latitude": 39.7356199368841,
+        "Longitude": -82.6340518306885,
+        "Rating": 5.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "A & B Truck & Trailer",
+        "Type": "Trailer Repair",
+        "Address": "4039 Matthews-Indian Trail Rd, Stallings, NC 28104",
+        "Latitude": 35.08726289394969,
+        "Longitude": -80.67037704459449,
+        "Rating": 5.0,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Big Dog Trailer Hitch & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "413 N Polk St, Pineville, NC 28134",
+        "Latitude": 35.0895347595215,
+        "Longitude": -80.8873519897461,
+        "Rating": 1.0,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "6700 Bruton Smith Blvd, Concord, NC 28027",
+        "Latitude": 35.36040697987024,
+        "Longitude": -80.6927113,
+        "Rating": 1.5,
+        "Review_Count": 136
+    },
+    {
+        "Name": "Leonard Buildings & Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6900 South Blvd, Charlotte, NC 28217",
+        "Latitude": 35.13953,
+        "Longitude": -80.87678,
+        "Rating": 1.3,
+        "Review_Count": 16
+    },
+    {
+        "Name": "U-Haul - Lake Wylie",
+        "Type": "Self Storage",
+        "Address": "4815 Charlotte Hwy, Lake Wylie, SC 29710",
+        "Latitude": 35.11502,
+        "Longitude": -81.068259,
+        "Rating": 4.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "LA Trailer Sales",
+        "Type": "Trailer Dealers",
+        "Address": "231 Will Link Ln, Iron Station, NC 28080",
+        "Latitude": 35.467281553857866,
+        "Longitude": -81.1574982,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "RV One Superstores Charlotte",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5051 Davidson Hwy, Concord, NC 28027",
+        "Latitude": 35.433613,
+        "Longitude": -80.663366,
+        "Rating": 2.5,
+        "Review_Count": 34
+    },
+    {
+        "Name": "Sonny's Camp-N-Travel",
+        "Type": "RV Dealers",
+        "Address": "304 Executive Park Dr, Concord, NC 28025",
+        "Latitude": 35.454825,
+        "Longitude": -80.597074,
+        "Rating": 3.3,
+        "Review_Count": 16
+    },
+    {
+        "Name": "U-Haul - Charlotte",
+        "Type": "Truck Rental",
+        "Address": "3001 Boxmeer Dr, Charlotte, NC 28269",
+        "Latitude": 35.273933,
+        "Longitude": -80.832802,
+        "Rating": 2.0,
+        "Review_Count": 7
+    },
+    {
+        "Name": "Williams Subaru",
+        "Type": "Auto Repair",
+        "Address": "5701 E Independence Blvd, Charlotte, NC 28212",
+        "Latitude": 35.182549467974425,
+        "Longitude": -80.75450044662296,
+        "Rating": 3.6,
+        "Review_Count": 50
+    },
+    {
+        "Name": "Capital Chrysler Dodge Jeep Ram of Indian Trail",
+        "Type": "Auto Parts & Supplies",
+        "Address": "5501 W Hwy 74, Monroe, NC 28110",
+        "Latitude": 35.05895292912227,
+        "Longitude": -80.63204224744229,
+        "Rating": 2.3,
+        "Review_Count": 59
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Freedom Mall",
+        "Type": "Self Storage",
+        "Address": "1530 Ashley Rd, Charlotte, NC 28208",
+        "Latitude": 35.240881,
+        "Longitude": -80.897268,
+        "Rating": 4.4,
+        "Review_Count": 5
+    },
+    {
+        "Name": "U-Haul - Concord",
+        "Type": "Truck Rental",
+        "Address": "855 Concord Pkwy S, Concord, NC 28027",
+        "Latitude": 35.39437772755666,
+        "Longitude": -80.6153431028283,
+        "Rating": 1.8,
+        "Review_Count": 14
+    },
+    {
+        "Name": "Hendrick BMW Northlake",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10720 Northlake Auto Plaza Blvd, Charlotte, NC 28269",
+        "Latitude": 35.36743,
+        "Longitude": -80.83044,
+        "Rating": 3.4,
+        "Review_Count": 89
+    },
+    {
+        "Name": "U-Haul - Charlotte",
+        "Type": "Self Storage",
+        "Address": "6216 Albemarle Rd, Charlotte, NC 28212",
+        "Latitude": 35.20194,
+        "Longitude": -80.7400399,
+        "Rating": 3.8,
+        "Review_Count": 6
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Gastonia",
+        "Type": "Truck Rental",
+        "Address": "3919 E Franklin Blvd, Gastonia, NC 28056",
+        "Latitude": 35.2570373275444,
+        "Longitude": -81.1113959367706,
+        "Rating": 2.6,
+        "Review_Count": 10
+    },
+    {
+        "Name": "Bay Truck Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3275 Geneva Ave, Daly City, CA 94014",
+        "Latitude": 37.7051773071289,
+        "Longitude": -122.407539367676,
+        "Rating": 4.4,
+        "Review_Count": 63
+    },
+    {
+        "Name": "Vision Performance",
+        "Type": "Car Stereo Installation",
+        "Address": "San Francisco, CA 94122",
+        "Latitude": 37.7617568969727,
+        "Longitude": -122.471351623535,
+        "Rating": 4.4,
+        "Review_Count": 92
+    },
+    {
+        "Name": "San Francisco Toyota Parts, Service, and Rental",
+        "Type": "Auto Repair",
+        "Address": "4099 Geary Blvd, San Francisco, CA 94118",
+        "Latitude": 37.78074,
+        "Longitude": -122.46281,
+        "Rating": 3.9,
+        "Review_Count": 318
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center at Candlestick",
+        "Type": "Trailer Dealers",
+        "Address": "1573 Bay Shore Bl, San Francisco, CA 94124",
+        "Latitude": 37.724161,
+        "Longitude": -122.400632,
+        "Rating": 1.7,
+        "Review_Count": 7
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Candlestick",
+        "Type": "Self Storage",
+        "Address": "1575 Bay Shore Bl, San Francisco, CA 94124",
+        "Latitude": 37.72412387520604,
+        "Longitude": -122.40073279537032,
+        "Rating": 1.8,
+        "Review_Count": 280
+    },
+    {
+        "Name": "Royal Auto Group - Service Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "1525 Howard St, San Francisco, CA 94103",
+        "Latitude": 37.77227,
+        "Longitude": -122.416436,
+        "Rating": 3.3,
+        "Review_Count": 1054
+    },
+    {
+        "Name": "Midnight Automotive",
+        "Type": "Auto Repair",
+        "Address": "817 Douglas Ave, Redwood City, CA 94063",
+        "Latitude": 37.48331,
+        "Longitude": -122.2094,
+        "Rating": 4.5,
+        "Review_Count": 86
+    },
+    {
+        "Name": "ABC Toy Garage",
+        "Type": "Tires",
+        "Address": "1296 Old County Rd, Belmont, CA 94002",
+        "Latitude": 37.5191903,
+        "Longitude": -122.2733862,
+        "Rating": 4.9,
+        "Review_Count": 203
+    },
+    {
+        "Name": "Viarv Parts and Service",
+        "Type": "RV Repair",
+        "Address": "1983 Alpine Way, Ste c, Hayward, CA 94545",
+        "Latitude": 37.64843,
+        "Longitude": -122.12342,
+        "Rating": 4.1,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Family RV",
+        "Type": "RV Rental",
+        "Address": "7900 Arroyo Cir, Gilroy, CA 95020",
+        "Latitude": 37.0178811,
+        "Longitude": -121.5614333,
+        "Rating": 4.1,
+        "Review_Count": 231
+    },
+    {
+        "Name": "Putnam Subaru",
+        "Type": "Car Dealers",
+        "Address": "85 California Dr, Burlingame, CA 94010",
+        "Latitude": 37.577655060054255,
+        "Longitude": -122.34131424478916,
+        "Rating": 4.5,
+        "Review_Count": 1680
+    },
+    {
+        "Name": "VK Garage",
+        "Type": "Auto Detailing",
+        "Address": "1413 West Texas St, Fairfield, CA 94533",
+        "Latitude": 38.24861370490033,
+        "Longitude": -122.05313530330058,
+        "Rating": 5.0,
+        "Review_Count": 64
+    },
+    {
+        "Name": "BMW of San Francisco",
+        "Type": "Car Dealers",
+        "Address": "1675 Howard St, San Francisco, CA 94103",
+        "Latitude": 37.77064035330701,
+        "Longitude": -122.41665162125508,
+        "Rating": 3.5,
+        "Review_Count": 2101
+    },
+    {
+        "Name": "Honda Of Oakland",
+        "Type": "Car Dealers",
+        "Address": "3330 Broadway, Oakland, CA 94611",
+        "Latitude": 37.821653,
+        "Longitude": -122.2601312,
+        "Rating": 3.5,
+        "Review_Count": 1425
+    },
+    {
+        "Name": "Stereo Base",
+        "Type": "Car Stereo Installation",
+        "Address": "26135 Mission Blvd, Hayward, CA 94544",
+        "Latitude": 37.6505947,
+        "Longitude": -122.067008972168,
+        "Rating": 4.7,
+        "Review_Count": 675
+    },
+    {
+        "Name": "Leale's RV",
+        "Type": "Transmission Repair",
+        "Address": "581 Race St, San Jose, CA 95126",
+        "Latitude": 37.3174541,
+        "Longitude": -121.9117178,
+        "Rating": 4.0,
+        "Review_Count": 132
+    },
+    {
+        "Name": "Putnam Toyota",
+        "Type": "Auto Repair",
+        "Address": "50 California Dr, Burlingame, CA 94010",
+        "Latitude": 37.577787526338554,
+        "Longitude": -122.34068535276108,
+        "Rating": 4.3,
+        "Review_Count": 1161
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "1913 Sherman St, Alameda, CA 94501",
+        "Latitude": 37.778426,
+        "Longitude": -122.263401,
+        "Rating": 2.3,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Volvo of Burlingame",
+        "Type": "Car Dealers",
+        "Address": "900 Peninsula Ave, Burlingame, CA 94010",
+        "Latitude": 37.57772496963467,
+        "Longitude": -122.33868045786154,
+        "Rating": 3.9,
+        "Review_Count": 234
+    },
+    {
+        "Name": "Northside Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "11985 E State Rd 32, Zionsville, IN 46077",
+        "Latitude": 40.04072153866386,
+        "Longitude": -86.243556,
+        "Rating": 5.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Schwartz's Trailer Sales",
+        "Type": "Trailer Dealers",
+        "Address": "117 Cicero Rd, Noblesville, IN 46060",
+        "Latitude": 40.0478591918945,
+        "Longitude": -86.0170135498047,
+        "Rating": 4.3,
+        "Review_Count": 6
+    },
+    {
+        "Name": "Trivett\u2019s Hitch Center",
+        "Type": "Auto Parts & Supplies",
+        "Address": "4164 E US Hwy 40, Plainfield, IN 46168",
+        "Latitude": 39.686633854196096,
+        "Longitude": -86.45470895057353,
+        "Rating": 3.7,
+        "Review_Count": 3
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Castleton",
+        "Type": "Truck Rental",
+        "Address": "7027 E 86th St, Indianapolis, IN 46250",
+        "Latitude": 39.911921,
+        "Longitude": -86.044863,
+        "Rating": 2.5,
+        "Review_Count": 43
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Michigan Rd",
+        "Type": "Self Storage",
+        "Address": "6014 Michigan Rd, Indianapolis, IN 46228",
+        "Latitude": 39.8625682632662,
+        "Longitude": -86.1998188197381,
+        "Rating": 2.2,
+        "Review_Count": 14
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Southern Plaza",
+        "Type": "Self Storage",
+        "Address": "4011 S East St, Indianapolis, IN 46227",
+        "Latitude": 39.7072352403826,
+        "Longitude": -86.1483539310261,
+        "Rating": 1.9,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul - Lynhurst",
+        "Type": "Truck Rental",
+        "Address": "5245 W Washington St, Indianapolis, IN 46241",
+        "Latitude": 39.7526167952896,
+        "Longitude": -86.2496484282418,
+        "Rating": 3.5,
+        "Review_Count": 6
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Keystone Plaza",
+        "Type": "Self Storage",
+        "Address": "5251 N Keystone, Indianapolis, IN 46220",
+        "Latitude": 39.849072,
+        "Longitude": -86.121665,
+        "Rating": 2.7,
+        "Review_Count": 19
+    },
+    {
+        "Name": "Ray Skillman Avon Hyundai",
+        "Type": "Car Dealers",
+        "Address": "8775 E US Hwy 36, Avon, IN 46123",
+        "Latitude": 39.762476,
+        "Longitude": -86.367358,
+        "Rating": 3.3,
+        "Review_Count": 31
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "303 Sheek Rd, Greenwood, IN 46143",
+        "Latitude": 39.61162389848862,
+        "Longitude": -86.07506875,
+        "Rating": 1.6,
+        "Review_Count": 165
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lawrence",
+        "Type": "Truck Rental",
+        "Address": "6800 Pendleton Pike, Indianapolis, IN 46226",
+        "Latitude": 39.82703,
+        "Longitude": -86.0494,
+        "Rating": 3.0,
+        "Review_Count": 3
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "704 S Harrison St, Shelbyville, IN 46176",
+        "Latitude": 39.5187187194824,
+        "Longitude": -85.7766571044922,
+        "Rating": 3.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Ray Skillman Auto Center",
+        "Type": "Auto Repair",
+        "Address": "8424 US 31 S, Indianapolis, IN 46227",
+        "Latitude": 39.643898,
+        "Longitude": -86.1342,
+        "Rating": 2.6,
+        "Review_Count": 90
+    },
+    {
+        "Name": "Rob's Hitch Trailer & Truck Accessories",
+        "Type": "Trailer Repair",
+        "Address": "17609 16th St E, Bonney Lake, WA 98391",
+        "Latitude": 47.2439538225511,
+        "Longitude": -122.195073255295,
+        "Rating": 5.0,
+        "Review_Count": 48
+    },
+    {
+        "Name": "Mann's Welding & Trailer Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "16535 Aurora Ave N, Shoreline, WA 98133",
+        "Latitude": 47.7498103,
+        "Longitude": -122.346411,
+        "Rating": 4.8,
+        "Review_Count": 72
+    },
+    {
+        "Name": "Mann's Eastside Hitch and Weld",
+        "Type": "Auto Parts & Supplies",
+        "Address": "12005 NE 12th St, Ste 18, Bellevue, WA 98005",
+        "Latitude": 47.6200582,
+        "Longitude": -122.1782904,
+        "Rating": 4.4,
+        "Review_Count": 54
+    },
+    {
+        "Name": "Torklift Central",
+        "Type": "RV Repair",
+        "Address": "315 Central Ave N, Kent, WA 98032",
+        "Latitude": 47.3838455,
+        "Longitude": -122.2316017,
+        "Rating": 4.4,
+        "Review_Count": 107
+    },
+    {
+        "Name": "Rack N Road - Seattle",
+        "Type": "Sporting Goods",
+        "Address": "7918 Aurora Ave N, Seattle, WA 98103",
+        "Latitude": 47.686673,
+        "Longitude": -122.344132,
+        "Rating": 4.6,
+        "Review_Count": 151
+    },
+    {
+        "Name": "Rack N Road",
+        "Type": "Auto Parts & Supplies",
+        "Address": "13107 NE 20th St, Ste 2, Bellevue, WA 98005",
+        "Latitude": 47.62775403711175,
+        "Longitude": -122.16539505336914,
+        "Rating": 4.1,
+        "Review_Count": 92
+    },
+    {
+        "Name": "Apache Camping Center",
+        "Type": "RV Dealers",
+        "Address": "12517 S Hwy 99, Everett, WA 98204",
+        "Latitude": 47.884181292743,
+        "Longitude": -122.26244368477,
+        "Rating": 4.6,
+        "Review_Count": 49
+    },
+    {
+        "Name": "Airport Welding & Muffler",
+        "Type": "Auto Repair",
+        "Address": "10312 Airport Way, Snohomish, WA 98296",
+        "Latitude": 47.90345,
+        "Longitude": -122.09904,
+        "Rating": 4.8,
+        "Review_Count": 41
+    },
+    {
+        "Name": "U-Haul Storage of Interbay",
+        "Type": "Self Storage",
+        "Address": "2601 15th Ave W, Seattle, WA 98119",
+        "Latitude": 47.6441404458594,
+        "Longitude": -122.376481083466,
+        "Rating": 1.8,
+        "Review_Count": 88
+    },
+    {
+        "Name": "U-Haul - Seattle",
+        "Type": "Self Storage",
+        "Address": "6343 35th Ave SW, Seattle, WA 98126",
+        "Latitude": 47.545121,
+        "Longitude": -122.377153,
+        "Rating": 1.9,
+        "Review_Count": 89
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "2515 Rainier Ave S, Seattle, WA 98144",
+        "Latitude": 47.58061,
+        "Longitude": -122.30056,
+        "Rating": 1.9,
+        "Review_Count": 165
+    },
+    {
+        "Name": "Kitsap Muffler & Brakes & Welding",
+        "Type": "Auto Parts & Supplies",
+        "Address": "3374 W Belfair Valley Rd, Bremerton, WA 98312",
+        "Latitude": 47.5301088,
+        "Longitude": -122.6962221,
+        "Rating": 4.1,
+        "Review_Count": 42
+    },
+    {
+        "Name": "Ryan's RV Town",
+        "Type": "RV Rental",
+        "Address": "12715 Hwy 99, Everett, WA 98204",
+        "Latitude": 47.882171,
+        "Longitude": -122.263561,
+        "Rating": 4.5,
+        "Review_Count": 93
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "12000 NE 85th St, Kirkland, WA 98033",
+        "Latitude": 47.6794962912808,
+        "Longitude": -122.179776148531,
+        "Rating": 2.0,
+        "Review_Count": 94
+    },
+    {
+        "Name": "U-Haul - Seattle",
+        "Type": "Truck Rental",
+        "Address": "6403 Mlk Jr Wy S, Seattle, WA 98118",
+        "Latitude": 47.5453059586407,
+        "Longitude": -122.28555882209,
+        "Rating": 3.2,
+        "Review_Count": 39
+    },
+    {
+        "Name": "Glenn's Welding & RV Supply",
+        "Type": "RV Repair",
+        "Address": "12405 Mukilteo Speedway, Lynnwood, WA 98087",
+        "Latitude": 47.8862,
+        "Longitude": -122.2812,
+        "Rating": 3.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "U Haul Storage - Burien",
+        "Type": "Self Storage",
+        "Address": "13645 1st Ave S, Burien, WA 98168",
+        "Latitude": 47.47981472665815,
+        "Longitude": -122.3342686210012,
+        "Rating": 1.9,
+        "Review_Count": 39
+    },
+    {
+        "Name": "Mann's Hitch &Truck",
+        "Type": "Trailer Repair",
+        "Address": "16535 Aurora Ave N, Shoreline, WA 98133",
+        "Latitude": 47.74983160666933,
+        "Longitude": -122.34642493147452,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Willow Welding",
+        "Type": "Metal Fabricators",
+        "Address": "Milton, WA 98354",
+        "Latitude": 47.25028875158364,
+        "Longitude": -122.31466609360967,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "16503 Aurora Ave N, Shoreline, WA 98133",
+        "Latitude": 47.74906,
+        "Longitude": -122.34622,
+        "Rating": 2.2,
+        "Review_Count": 98
+    },
+    {
+        "Name": "Apache Camping Center",
+        "Type": "RV Dealers",
+        "Address": "19520 Viking Ave, Poulsbo, WA 98370",
+        "Latitude": 47.7401170958729,
+        "Longitude": -122.658377743243,
+        "Rating": 4.0,
+        "Review_Count": 21
+    },
+    {
+        "Name": "Clearview Rv",
+        "Type": "RV Dealers",
+        "Address": "17104 State Rt 9 SE, Snohomish, WA 98296",
+        "Latitude": 47.84185,
+        "Longitude": -122.12209,
+        "Rating": 4.6,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul - Renton",
+        "Type": "Self Storage",
+        "Address": "453 Rainier Ave N, Renton, WA 98057",
+        "Latitude": 47.489344,
+        "Longitude": -122.218266,
+        "Rating": 2.2,
+        "Review_Count": 39
+    },
+    {
+        "Name": "Ballard Marine Service",
+        "Type": "Boat Repair",
+        "Address": "1526 NW 46th St, Seattle, WA 98107",
+        "Latitude": 47.66244,
+        "Longitude": -122.37744,
+        "Rating": 3.5,
+        "Review_Count": 16
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "6720 NE Bothell Way, Kenmore, WA 98028",
+        "Latitude": 47.758662,
+        "Longitude": -122.25097,
+        "Rating": 1.7,
+        "Review_Count": 56
+    },
+    {
+        "Name": "O'Reilly Auto Parts",
+        "Type": "Auto Parts & Supplies",
+        "Address": "18021 Aurora Ave N, Shoreline, WA 98133",
+        "Latitude": 47.760342,
+        "Longitude": -122.346527,
+        "Rating": 3.6,
+        "Review_Count": 27
+    },
+    {
+        "Name": "U-Haul - Renton",
+        "Type": "Truck Rental",
+        "Address": "3131 NE 4th St, Renton, WA 98056",
+        "Latitude": 47.4883607255628,
+        "Longitude": -122.17672066269,
+        "Rating": 1.8,
+        "Review_Count": 56
+    },
+    {
+        "Name": "Trailers Northwest",
+        "Type": "Trailer Dealers",
+        "Address": "18421 Renton Maple Valley, Hwy SE, Maple Valley, WA 98038",
+        "Latitude": 47.4362373,
+        "Longitude": -122.0645276,
+        "Rating": 2.4,
+        "Review_Count": 36
+    },
+    {
+        "Name": "U-Haul - Bremerton",
+        "Type": "Self Storage",
+        "Address": "2804 Kitsap Wy, Bremerton, WA 98312",
+        "Latitude": 47.5677413839907,
+        "Longitude": -122.654027731799,
+        "Rating": 1.7,
+        "Review_Count": 32
+    },
+    {
+        "Name": "Poulsbo RV",
+        "Type": "RV Dealers",
+        "Address": "12218 Hwy 99, Everett, WA 98204",
+        "Latitude": 47.88765272280729,
+        "Longitude": -122.26211397243404,
+        "Rating": 3.0,
+        "Review_Count": 89
+    },
+    {
+        "Name": "U-Haul - Auburn",
+        "Type": "Trailer Dealers",
+        "Address": "5106 Frontage Rd NW, Auburn, WA 98001",
+        "Latitude": 47.3531981,
+        "Longitude": -122.2415486,
+        "Rating": 3.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Mercedes-Benz of Lynnwood",
+        "Type": "Auto Repair",
+        "Address": "17800 Hwy 99, Lynnwood, WA 98037",
+        "Latitude": 47.83754727337371,
+        "Longitude": -122.30205129043848,
+        "Rating": 4.4,
+        "Review_Count": 352
+    },
+    {
+        "Name": "Squatch RV Service & Parts",
+        "Type": "RV Repair",
+        "Address": "917A Central Ave S, Kent, WA 98032",
+        "Latitude": 47.37138,
+        "Longitude": -122.2308,
+        "Rating": 1.4,
+        "Review_Count": 12
+    },
+    {
+        "Name": "Seattle Jeep",
+        "Type": "Car Dealers",
+        "Address": "13733 Aurora Ave N, Seattle, WA 98133",
+        "Latitude": 47.7299305,
+        "Longitude": -122.3457977,
+        "Rating": 2.6,
+        "Review_Count": 426
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "19130 Hwy 99, Lynnwood, WA 98036",
+        "Latitude": 47.8250224270913,
+        "Longitude": -122.312244915331,
+        "Rating": 2.0,
+        "Review_Count": 67
+    },
+    {
+        "Name": "Smileys Pro Services",
+        "Type": "Trailer Repair",
+        "Address": "18022 State Rte 536, Mount Vernon, WA 98273",
+        "Latitude": 48.42465240000008,
+        "Longitude": -122.35799260000005,
+        "Rating": 4.0,
+        "Review_Count": 2
+    },
+    {
+        "Name": "Kitsap Trailer Repair",
+        "Type": "Trailer Repair",
+        "Address": "14167 Madrona Rd SW, Port Orchard, WA 98367",
+        "Latitude": 47.41974,
+        "Longitude": -122.64994,
+        "Rating": 5.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "AutoNation Chrysler Dodge Jeep Ram Bellevue",
+        "Type": "Car Dealers",
+        "Address": "120 116th Ave NE, Bellevue, WA 98004",
+        "Latitude": 47.61078903149875,
+        "Longitude": -122.18493,
+        "Rating": 2.5,
+        "Review_Count": 386
+    },
+    {
+        "Name": "BMW of Bellevue",
+        "Type": "Car Dealers",
+        "Address": "11959 Northup Way, Bellevue, WA 98005",
+        "Latitude": 47.63124054864246,
+        "Longitude": -122.18232064417774,
+        "Rating": 2.5,
+        "Review_Count": 725
+    },
+    {
+        "Name": "Swickard Toyota",
+        "Type": "Auto Repair",
+        "Address": "21300 Hwy 99, Edmonds, WA 98026",
+        "Latitude": 47.80616,
+        "Longitude": -122.328065,
+        "Rating": 3.0,
+        "Review_Count": 514
+    },
+    {
+        "Name": "Discount Medical Supply",
+        "Type": "N/A",
+        "Address": "20052 International Blvd, Seatac, WA 98198",
+        "Latitude": 47.42096,
+        "Longitude": -122.29546,
+        "Rating": 4.0,
+        "Review_Count": 3
+    },
+    {
+        "Name": "AutoNation Honda Renton",
+        "Type": "Auto Repair",
+        "Address": "3701 E Valley Rd, Renton, WA 98057",
+        "Latitude": 47.446731031606696,
+        "Longitude": -122.22072183226553,
+        "Rating": 2.6,
+        "Review_Count": 306
+    },
+    {
+        "Name": "Audi Bellevue",
+        "Type": "Auto Repair",
+        "Address": "1533 120th Ave NE, Bellevue, WA 98005",
+        "Latitude": 47.623954577684195,
+        "Longitude": -122.18009708517172,
+        "Rating": 2.5,
+        "Review_Count": 432
+    },
+    {
+        "Name": "Auto Trim Design",
+        "Type": "Auto Customization",
+        "Address": "17000 W Valley Hwy, Tukwila, WA 98188",
+        "Latitude": 47.45094,
+        "Longitude": -122.24285,
+        "Rating": 3.4,
+        "Review_Count": 46
+    },
+    {
+        "Name": "Walker's Renton Mazda",
+        "Type": "Car Dealers",
+        "Address": "3400 East Valley Rd, Renton, WA 98057",
+        "Latitude": 47.4497903,
+        "Longitude": -122.21744,
+        "Rating": 3.1,
+        "Review_Count": 297
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Self Storage",
+        "Address": "14429 Hwy 99, Lynnwood, WA 98087",
+        "Latitude": 47.8672089860011,
+        "Longitude": -122.277792537434,
+        "Rating": 2.1,
+        "Review_Count": 50
+    },
+    {
+        "Name": "U-Haul Moving & Storage of North Auburn",
+        "Type": "Self Storage",
+        "Address": "5110 Frontage Rd NW, Auburn, WA 98001",
+        "Latitude": 47.3524917761417,
+        "Longitude": -122.242635670295,
+        "Rating": 1.9,
+        "Review_Count": 43
+    },
+    {
+        "Name": "Auto Air & Heating & Accessory Options",
+        "Type": "Auto Parts & Supplies",
+        "Address": "12708 Hwy 99, Everett, WA 98204",
+        "Latitude": 47.8829002,
+        "Longitude": -122.2653503,
+        "Rating": 4.2,
+        "Review_Count": 5
+    },
+    {
+        "Name": "Lampert Hitch",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6250 W 55th Ave, Arvada, CO 80002",
+        "Latitude": 39.79601,
+        "Longitude": -105.06606,
+        "Rating": 4.3,
+        "Review_Count": 66
+    },
+    {
+        "Name": "The Hitch Corner",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10677 W Centennial Rd, Ste 103, Littleton, CO 80127",
+        "Latitude": 39.56777,
+        "Longitude": -105.11867,
+        "Rating": 4.4,
+        "Review_Count": 47
+    },
+    {
+        "Name": "Rack Attack Denver",
+        "Type": "Outdoor Gear",
+        "Address": "5550 E Evans Ave, Denver, CO 80222",
+        "Latitude": 39.6781301,
+        "Longitude": -104.923062,
+        "Rating": 4.2,
+        "Review_Count": 102
+    },
+    {
+        "Name": "Parker Trailer & RV",
+        "Type": "Trailer Dealers",
+        "Address": "8900 Brompton Way, Parker, CO 80134",
+        "Latitude": 39.55633,
+        "Longitude": -104.77956,
+        "Rating": 4.1,
+        "Review_Count": 44
+    },
+    {
+        "Name": "Rack Attack Golden",
+        "Type": "Auto Parts & Supplies",
+        "Address": "15600 W Colfax Ave, Golden, CO 80401",
+        "Latitude": 39.7295937,
+        "Longitude": -105.1750255,
+        "Rating": 4.3,
+        "Review_Count": 76
+    },
+    {
+        "Name": "Jazz It Up Truck and Auto Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "6620 S Dayton St, Ste B, Centennial, CO 80111",
+        "Latitude": 39.5965805053711,
+        "Longitude": -104.875709533691,
+        "Rating": 3.5,
+        "Review_Count": 35
+    },
+    {
+        "Name": "Aerosuds Accessories",
+        "Type": "Auto Parts & Supplies",
+        "Address": "135 Alter St, Broomfield, CO 80020",
+        "Latitude": 39.9187889099121,
+        "Longitude": -105.096900939941,
+        "Rating": 3.1,
+        "Review_Count": 18
+    },
+    {
+        "Name": "U-Haul at Alameda Ave",
+        "Type": "Truck Rental",
+        "Address": "2645 W Alameda Ave, Denver, CO 80219",
+        "Latitude": 39.711498,
+        "Longitude": -105.018954,
+        "Rating": 2.6,
+        "Review_Count": 36
+    },
+    {
+        "Name": "Vital Parts",
+        "Type": "Trailer Dealers",
+        "Address": "2028 W Hamilton Pl, Sheridan, CO 80110",
+        "Latitude": 39.654277,
+        "Longitude": -105.012913,
+        "Rating": 4.6,
+        "Review_Count": 9
+    },
+    {
+        "Name": "Rackstarz Vehicle Rack and Hitch",
+        "Type": "Auto Customization",
+        "Address": "7560 S University Blvd, Centennial, CO 80122",
+        "Latitude": 39.57931,
+        "Longitude": -104.95987,
+        "Rating": 5.0,
+        "Review_Count": 6
+    },
+    {
+        "Name": "Lazydays RV of Denver",
+        "Type": "RV Dealers",
+        "Address": "3640 Chambers Rd, Aurora, CO 80011",
+        "Latitude": 39.76832,
+        "Longitude": -104.8083451,
+        "Rating": 2.0,
+        "Review_Count": 91
+    },
+    {
+        "Name": "John's 4x4",
+        "Type": "Auto Repair",
+        "Address": "6367 Arapahoe Rd, Boulder, CO 80303",
+        "Latitude": 40.0157323741967,
+        "Longitude": -105.204999525131,
+        "Rating": 3.8,
+        "Review_Count": 39
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Highlands Ranch",
+        "Type": "Self Storage",
+        "Address": "1750 E County Line Rd, Highlands Ranch, CO 80126",
+        "Latitude": 39.5654378528747,
+        "Longitude": -104.967780951065,
+        "Rating": 1.6,
+        "Review_Count": 99
+    },
+    {
+        "Name": "U-Haul at Westminster",
+        "Type": "Truck Rental",
+        "Address": "8001 Federal Blvd, Westminster, CO 80031",
+        "Latitude": 39.8420524597168,
+        "Longitude": -105.025283813477,
+        "Rating": 2.0,
+        "Review_Count": 27
+    },
+    {
+        "Name": "Camping World",
+        "Type": "RV Dealers",
+        "Address": "9870 W 48th Ave, Wheat Ridge, CO 80033",
+        "Latitude": 39.7830119,
+        "Longitude": -105.10775853290043,
+        "Rating": 2.5,
+        "Review_Count": 99
+    },
+    {
+        "Name": "Trailer Source",
+        "Type": "RV Dealers",
+        "Address": "4651 Tabor St, Wheat Ridge, CO 80033",
+        "Latitude": 39.78075,
+        "Longitude": -105.13142,
+        "Rating": 2.0,
+        "Review_Count": 35
+    },
+    {
+        "Name": "U-Haul",
+        "Type": "Truck Rental",
+        "Address": "2727 S Santa Fe Dr, Englewood, CO 80110",
+        "Latitude": 39.66570223832202,
+        "Longitude": -104.99784791986896,
+        "Rating": 2.1,
+        "Review_Count": 45
+    },
+    {
+        "Name": "Off-Camber 4x4 Garage",
+        "Type": "Auto Customization",
+        "Address": "7352 Greenridge Rd, Unit C10, Windsor, CO 80550",
+        "Latitude": 40.43962,
+        "Longitude": -104.96536,
+        "Rating": 4.6,
+        "Review_Count": 10
+    },
+    {
+        "Name": "U-Haul at East Colfax",
+        "Type": "Truck Rental",
+        "Address": "8150 E Colfax Ave, Denver, CO 80220",
+        "Latitude": 39.7398947752295,
+        "Longitude": -104.89321267057,
+        "Rating": 2.1,
+        "Review_Count": 26
+    },
+    {
+        "Name": "U-Haul at Garrison & Jewell",
+        "Type": "Self Storage",
+        "Address": "9190 W Jewell, Lakewood, CO 80232",
+        "Latitude": 39.681822,
+        "Longitude": -105.099835,
+        "Rating": 2.9,
+        "Review_Count": 27
+    },
+    {
+        "Name": "All-In Mobile Specialists",
+        "Type": "RV Repair",
+        "Address": "Arvada, CO 80004",
+        "Latitude": 39.80887,
+        "Longitude": -105.11503,
+        "Rating": 4.4,
+        "Review_Count": 17
+    },
+    {
+        "Name": "Best Choice Welding",
+        "Type": "Metal Fabricators",
+        "Address": "8501 Vinegarroon Rd, Parker, CO 80138",
+        "Latitude": 39.48441669234049,
+        "Longitude": -104.69785567976623,
+        "Rating": 3.5,
+        "Review_Count": 2
+    },
+    {
+        "Name": "U-Haul at I-225 & Colfax",
+        "Type": "Truck Rental",
+        "Address": "13721 E Colfax Ave, Aurora, CO 80011",
+        "Latitude": 39.740679,
+        "Longitude": -104.827579,
+        "Rating": 2.2,
+        "Review_Count": 15
+    },
+    {
+        "Name": "Windish RV Center - Lakewood",
+        "Type": "RV Dealers",
+        "Address": "11225 W 6th Ave, Lakewood, CO 80215",
+        "Latitude": 39.7266136945265,
+        "Longitude": -105.12443225853012,
+        "Rating": 2.4,
+        "Review_Count": 88
+    },
+    {
+        "Name": "Planet Honda",
+        "Type": "Car Dealers",
+        "Address": "15701 W Colfax Ave, Golden, CO 80401",
+        "Latitude": 39.73014,
+        "Longitude": -105.17647,
+        "Rating": 3.4,
+        "Review_Count": 398
+    },
+    {
+        "Name": "Jayhawk Trailers",
+        "Type": "Trailer Dealers",
+        "Address": "5600 E 72nd Ave, Commerce City, CO 80022",
+        "Latitude": 39.8271051,
+        "Longitude": -104.92213,
+        "Rating": 3.7,
+        "Review_Count": 9
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Buckley Rd",
+        "Type": "Self Storage",
+        "Address": "750 S Buckley Rd, Aurora, CO 80017",
+        "Latitude": 39.702402,
+        "Longitude": -104.7901119,
+        "Rating": 2.3,
+        "Review_Count": 37
+    },
+    {
+        "Name": "U-Haul ",
+        "Type": "Self Storage",
+        "Address": "4849-4859 S Santa Fe, Littleton, CO 80120",
+        "Latitude": 39.62832,
+        "Longitude": -105.01176,
+        "Rating": 1.6,
+        "Review_Count": 39
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Mile High Station",
+        "Type": "Self Storage",
+        "Address": "2000 W Lower Colfax Ave, Denver, CO 80204",
+        "Latitude": 39.73942252930504,
+        "Longitude": -105.01621158291438,
+        "Rating": 2.4,
+        "Review_Count": 68
+    },
+    {
+        "Name": "U-Haul ",
+        "Type": "Truck Rental",
+        "Address": "15500 W Colfax Ave, Golden, CO 80401",
+        "Latitude": 39.729638,
+        "Longitude": -105.173516,
+        "Rating": 2.5,
+        "Review_Count": 17
+    },
+    {
+        "Name": "U-Haul of Arvada",
+        "Type": "Truck Rental",
+        "Address": "6275 Wadsworth Byp, Arvada, CO 80003",
+        "Latitude": 39.81062,
+        "Longitude": -105.08002,
+        "Rating": 2.2,
+        "Review_Count": 48
+    },
+    {
+        "Name": "Automotive Cosmedics",
+        "Type": "Auto Customization",
+        "Address": "800 E 73rd Ave, Unit 10, Denver, CO 80229",
+        "Latitude": 39.8287085,
+        "Longitude": -104.9765411,
+        "Rating": 5.0,
+        "Review_Count": 5
+    },
+    {
+        "Name": "U-Haul Moving & Storage At York",
+        "Type": "Truck Rental",
+        "Address": "7540 York St, Denver, CO 80229",
+        "Latitude": 39.833245,
+        "Longitude": -104.958653,
+        "Rating": 1.5,
+        "Review_Count": 31
+    },
+    {
+        "Name": "U-Haul at Sheridan & Mississippi",
+        "Type": "Self Storage",
+        "Address": "1104 S Sheridan Blvd, Lakewood, CO 80232",
+        "Latitude": 39.696677,
+        "Longitude": -105.052804,
+        "Rating": 1.8,
+        "Review_Count": 5
+    },
+    {
+        "Name": "Foundation Chevrolet",
+        "Type": "Car Dealers",
+        "Address": "11001 W Interstate 70 Frontage Rd N, Wheat Ridge, CO 80033",
+        "Latitude": 39.786005484084896,
+        "Longitude": -105.1220568622644,
+        "Rating": 2.3,
+        "Review_Count": 148
+    },
+    {
+        "Name": "U-Haul Moving & Storage at South Federal",
+        "Type": "Self Storage",
+        "Address": "2322 S Federal Blvd, Denver, CO 80219",
+        "Latitude": 39.67419,
+        "Longitude": -105.02435,
+        "Rating": 1.9,
+        "Review_Count": 14
+    },
+    {
+        "Name": "Windish Rv Center",
+        "Type": "RV Dealers",
+        "Address": "Denver, CO 80214",
+        "Latitude": 39.7420921325684,
+        "Longitude": -105.070991516113,
+        "Rating": 3.1,
+        "Review_Count": 7
+    },
+    {
+        "Name": "Larry H. Miller Colorado Jeep",
+        "Type": "Auto Repair",
+        "Address": "350 S Havana St, Denver, CO 80012",
+        "Latitude": 39.70947,
+        "Longitude": -104.865205,
+        "Rating": 1.7,
+        "Review_Count": 179
+    },
+    {
+        "Name": "Timeless Travel Trailers",
+        "Type": "RV Dealers",
+        "Address": "12250 W 52nd Ave, Wheat Ridge, CO 80033",
+        "Latitude": 39.789957,
+        "Longitude": -105.135619,
+        "Rating": 2.3,
+        "Review_Count": 3
+    },
+    {
+        "Name": "Five R Trucks ",
+        "Type": "Auto Parts & Supplies",
+        "Address": "15590 W Colfax Ave, Golden, CO 80401",
+        "Latitude": 39.72931959258482,
+        "Longitude": -105.1745551,
+        "Rating": 2.2,
+        "Review_Count": 23
+    },
+    {
+        "Name": "Accessor Ease",
+        "Type": "Car Stereo Installation",
+        "Address": "5158 Parfet St, Wheat Ridge, CO 80033",
+        "Latitude": 39.78938,
+        "Longitude": -105.11938,
+        "Rating": 3.3,
+        "Review_Count": 4
+    },
+    {
+        "Name": "Blue Compass RV Wheat Ridge",
+        "Type": "RV Dealers",
+        "Address": "4100 Youngfield St, Wheat Ridge, CO 80033",
+        "Latitude": 39.77152,
+        "Longitude": -105.14169,
+        "Rating": 2.5,
+        "Review_Count": 74
+    },
+    {
+        "Name": "U-Haul Neighborhood Dealer",
+        "Type": "Truck Rental",
+        "Address": "1901 Wadsworth Blvd, Lakewood, CO 80214",
+        "Latitude": 39.7460250854492,
+        "Longitude": -105.08179473877,
+        "Rating": 1.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "Groove Subaru",
+        "Type": "Car Dealers",
+        "Address": "5300 S Broadway, Englewood, CO 80113",
+        "Latitude": 39.6197254,
+        "Longitude": -104.9872152,
+        "Rating": 3.0,
+        "Review_Count": 407
+    },
+    {
+        "Name": "Schomp BMW",
+        "Type": "Car Dealers",
+        "Address": "1190 Plum Valley Ln, Highlands Ranch, CO 80129",
+        "Latitude": 39.560104053344425,
+        "Longitude": -105.00222747824694,
+        "Rating": 2.7,
+        "Review_Count": 490
+    },
+    {
+        "Name": "Peak Kia Littleton",
+        "Type": "Car Dealers",
+        "Address": "5077 S Wadsworth Blvd, Littleton, CO 80123",
+        "Latitude": 39.6262704178811,
+        "Longitude": -105.0923754,
+        "Rating": 3.3,
+        "Review_Count": 221
+    },
+    {
+        "Name": "Trick Trucks & Cars",
+        "Type": "Auto Parts & Supplies",
+        "Address": "10431 Metropolitan Ave, Kensington, MD 20895",
+        "Latitude": 39.02687,
+        "Longitude": -77.0702,
+        "Rating": 4.1,
+        "Review_Count": 30
+    },
+    {
+        "Name": "Cap World Truck Accessories & Trailers",
+        "Type": "Auto Parts & Supplies",
+        "Address": "9826 Washington Blvd N, Laurel, MD 20723",
+        "Latitude": 39.1157705,
+        "Longitude": -76.832413,
+        "Rating": 4.4,
+        "Review_Count": 17
+    },
+    {
+        "Name": "Patriot Liner Rockville",
+        "Type": "Auto Customization",
+        "Address": "12019 Nebel St, Rockville, MD 20852",
+        "Latitude": 39.051225,
+        "Longitude": -77.108671,
+        "Rating": 4.7,
+        "Review_Count": 15
+    },
+    {
+        "Name": "Gaithersburg - Cap World Truck Accessories & Trailers",
+        "Type": "Auto Parts & Supplies",
+        "Address": "453 E Diamond Ave, Gaithersburg, MD 20877",
+        "Latitude": 39.141424,
+        "Longitude": -77.186208,
+        "Rating": 4.1,
+        "Review_Count": 13
+    },
+    {
+        "Name": "U-Haul of Falls Church",
+        "Type": "Truck Rental",
+        "Address": "1107 W Broad St, Falls Church, VA 22046",
+        "Latitude": 38.8926222063255,
+        "Longitude": -77.1875084708131,
+        "Rating": 2.1,
+        "Review_Count": 109
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Bladensburg",
+        "Type": "Self Storage",
+        "Address": "1750 Bladensburg Rd NE, Washington, DC 20002",
+        "Latitude": 38.91342,
+        "Longitude": -76.976,
+        "Rating": 2.0,
+        "Review_Count": 34
+    },
+    {
+        "Name": "U-Haul Moving & Storage at Randolph Rd",
+        "Type": "Self Storage",
+        "Address": "12025 Parklawn Dr, Rockville, MD 20852",
+        "Latitude": 39.05436,
+        "Longitude": -77.10643,
+        "Rating": 2.3,
+        "Review_Count": 94
+    },
+    {
+        "Name": "Automotive Protection Services",
+        "Type": "Car Window Tinting",
+        "Address": "3170 Draper Dr, Unit  8, Fairfax, VA 22031",
+        "Latitude": 38.86616607881446,
+        "Longitude": -77.28223504964572,
+        "Rating": 4.8,
+        "Review_Count": 59
+    },
+    {
+        "Name": "U-Haul ",
+        "Type": "Truck Rental",
+        "Address": "5285 Port Royal Rd, Springfield, VA 22151",
+        "Latitude": 38.808092,
+        "Longitude": -77.21744,
+        "Rating": 3.4,
+        "Review_Count": 30
+    },
+    {
+        "Name": "U-Haul of Columbia Pike",
+        "Type": "Self Storage",
+        "Address": "5654 Columbia Pike, Falls Church, VA 22041",
+        "Latitude": 38.852459,
+        "Longitude": -77.1257077,
+        "Rating": 2.1,
+        "Review_Count": 97
+    },
+    {
+        "Name": "Adler & Mandel",
+        "Type": "Auto Customization",
+        "Address": "12298 Wilkins Ave, Ste B, Rockville, MD 20852",
+        "Latitude": 39.05758,
+        "Longitude": -77.11329,
+        "Rating": 3.7,
+        "Review_Count": 27
+    },
+    {
+        "Name": "American Dream RV Service & Inspections - Reston",
+        "Type": "RV Repair",
+        "Address": "Reston, VA 20191",
+        "Latitude": 38.93524551,
+        "Longitude": -77.34774017,
+        "Rating": 5.0,
+        "Review_Count": 1
+    },
+    {
+        "Name": "U-Haul Trailer Hitch Super Center",
+        "Type": "Trailer Dealers",
+        "Address": "12021 Parklawn Dr, Rockville, MD 20852",
+        "Latitude": 39.0539834802945,
+        "Longitude": -77.1066103222287,
+        "Rating": 1.0,
+        "Review_Count": 4
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Takoma Park",
+        "Type": "Self Storage",
+        "Address": "6889 New Hampshire Ave, Takoma Park, MD 20912",
+        "Latitude": 38.974776,
+        "Longitude": -76.994012,
+        "Rating": 2.2,
+        "Review_Count": 74
+    },
+    {
+        "Name": "U-Haul Moving & Storage of Lanham Bowie",
+        "Type": "Self Storage",
+        "Address": "9800 Martin Luther King Jr Hwy, Lanham, MD 20706",
+        "Latitude": 38.9514077366584,
+        "Longitude": -76.8375313282013,
+        "Rating": 2.3,
+        "Review_Count": 12
+    },
+    {
+        "Name": "U-Haul - Suitland",
+        "Type": "Self Storage",
+        "Address": "3710 St Barnabas Rd, Suitland, MD 20746",
+        "Latitude": 38.83843,
+        "Longitude": -76.940219,
+        "Rating": 1.8,
+        "Review_Count": 11
+    },
+    {
+        "Name": "BMW of Alexandria - Arlington",
+        "Type": "Car Dealers",
+        "Address": "499 S Pickett St, Alexandria, VA 22304",
+        "Latitude": 38.80799229064201,
+        "Longitude": -77.12882,
+        "Rating": 2.5,
+        "Review_Count": 715
+    }
+]
